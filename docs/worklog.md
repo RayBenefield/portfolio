@@ -1,5 +1,14 @@
 # Worklog
 
+## #3
+
+We explored the power of teleporters and setup a teleporter at the bottom of
+each of the main outer ramps. This will serve as the new entrance into the map
+and you will now respawn in the spawn room, which gives you the opportunity to
+change your loadout midgame. Or when someone joins midgame they can select their
+loadout. Next thing to do is to finish walling off the map and then test it.
+Then we probably want to work on making the spawn room look awesome.
+
 ## #2
 
 Continued to remove another 2 tiles from each side of Inception. Tested the
