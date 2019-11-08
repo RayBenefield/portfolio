@@ -1,5 +1,15 @@
 # Worklog
 
+## #2
+
+Continued to remove another 2 tiles from each side of Inception. Tested the
+unloading of the map and it seems to actually unload now, which is exactly the
+progress we needed. So I just need to seal it up and it should be playable at
+this point. The next thing I want to work on is to add teleporters and allow
+people to spawn in the spawn room and take the teleporter whenever they are
+ready. This will allow players to change weapons every spawn, and also allow new
+players to still grab weapons and stuff.
+
 ## #1
 
 We are focused on getting Inception featured on Fortnite Creative right now. So
