@@ -1,5 +1,15 @@
 # Worklog
 
+## #6, #7
+
+Setup the full shape of the spawn room, including the quick access spawn point
+to get back into the game quicker. I've also fully ported over the signage from
+the old Inception. So now the spawn room looks good. Next we have to organize
+the weapons and add some labeling to make things a little more self explanatory.
+I also need to setup two classes, one for playing the game, and one for being in
+the spawn room. Should only take a few more sessions, might finish tomorrow
+fully.
+
 ## #5
 
 Started by bringing over the old Inception sign that I made when Creative first
