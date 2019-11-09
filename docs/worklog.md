@@ -1,5 +1,13 @@
 # Worklog
 
+## #5
+
+Started by bringing over the old Inception sign that I made when Creative first
+came out. We will use that to decorate the spawn room. In addition we started
+redesigning the spawn room, setting it up so that way people can get back into
+the action faster, but still have the option to change their loadout between
+spawns if they so choose.
+
 ## #4
 
 Closed up the map with walls and also removed any excess walls to reduce all
