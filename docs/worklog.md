@@ -1,5 +1,11 @@
 # Worklog
 
+## #4
+
+Closed up the map with walls and also removed any excess walls to reduce all
+possible chances for too much memory. Everything seems to perform way better
+now. So the next thing I want to start doing is clean up the spawn room.
+
 ## #3
 
 We explored the power of teleporters and setup a teleporter at the bottom of
