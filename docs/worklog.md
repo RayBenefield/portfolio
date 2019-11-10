@@ -1,5 +1,14 @@
 # Worklog
 
+## #10
+
+We finished the adjustment of the size of the sign to half of what it was. This
+shrunk the room to a much more manageable size, which allowed us to pull in all
+the walls and shrink the entire room so that way it makes better use of the
+space and will ultimately waste less of players time walking around. Next thing
+to do is to add the spawns and move the sign closer to the wall and to the side.
+And we should be close to done. Should be good by the end of the stream.
+
 ## #9
 
 Adjusted the positioning of all the weapons into groups. I started to explore
