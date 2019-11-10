@@ -1,5 +1,12 @@
 # Worklog
 
+## #9
+
+Adjusted the positioning of all the weapons into groups. I started to explore
+labeling the groups and didn't like the obvious solution, so the first thing I'm
+going to do is reduce the size of the sign in the back to reduce the size of the
+room. A smaller room should lend itself to a better setup for the weapons.
+
 ## #8
 
 Spent time organizing the weapons into types, then started cleaning up excess
