@@ -1,5 +1,11 @@
 # Worklog
 
+## #8
+
+Spent time organizing the weapons into types, then started cleaning up excess
+pieces outside of the spawn room. Cleaned up the corners so they look better and
+fit all 16 spawns, and added pillars for a cleaner more polished look.
+
 ## #6, #7
 
 Setup the full shape of the spawn room, including the quick access spawn point
