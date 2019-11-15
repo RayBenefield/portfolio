@@ -1,5 +1,12 @@
 # Worklog
 
+## #11, #12
+
+Took time to setup my worklog for my design portfolio to post directly to Github
+whenever I finish and push up an entry. This will serve to be a direct location
+for viewers to see what is happening with my design portfolio and keep up with
+map releases and updates.
+
 ## #10
 
 We finished the adjustment of the size of the sign to half of what it was. This
