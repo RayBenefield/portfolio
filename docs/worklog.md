@@ -1,5 +1,16 @@
 # Worklog
 
+## #14
+
+Spent this session designing a system where you can change a player's team
+mid-game this will be crucial in systems where players can be forced to go to
+certain teams for any particular reason. Apparently team settings plates
+re-apply settings on respawn, so having multiple team settings plates, then
+leaving one left then respawning the player, they will take on that remaining
+plate's traits. Then for team switching you have that plate dictate "go to team
+after last life". Easy setup... the problem is whether or not I have enough
+channels to pull it off.
+
 ## #13
 
 Moved the Inception sign to an appropriate spot on the wall. Started exploring
