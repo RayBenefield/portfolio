@@ -1,5 +1,16 @@
 # Worklog
 
+## #13
+
+Moved the Inception sign to an appropriate spot on the wall. Started exploring
+an aesthetically pleasing approach to showing off all of the weapons. I'm
+currently thinking of mini gazebos to house the weapons. There needs to be a
+place to put a label above the weapons as well as not blocking the sign. Luckily
+we have some room to move the sign a bit upwards if necessary. Next session I'll
+be screwing around with weapon housing styles until I have at least a decent
+one. Of course these stations can be updated later with something better when I
+get an artist to take a look.
+
 ## #11, #12
 
 Took time to setup my worklog for my design portfolio to post directly to Github
