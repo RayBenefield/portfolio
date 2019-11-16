@@ -1,5 +1,13 @@
 # Worklog
 
+## #17, #18
+
+Went back to working on Clue. Started with building out the store security
+system. When a guard tries to activate the store security, it will lock down the
+store for X seconds. When a hacker tries to activate the store, it will disable
+store security. Next system that needs to be created is the hacker selection and
+hacker assigner systems.
+
 ## #16
 
 Gave up on the sneaky snowman exploration for a bit. Tried to test my theory for
