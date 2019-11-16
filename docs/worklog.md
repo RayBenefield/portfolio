@@ -1,5 +1,20 @@
 # Worklog
 
+## #15
+
+So yesterday, after I put in my worklog entry. I realized there was something
+wrong with my team switching system. Apparently it didn't switch for that
+game... it actually switched for the next game. Which is really weird. But it
+makes me think. Maybe I can make it work on a per round basis. Perhaps the team
+traits are tacked on at the beginning of the round. If so, then I might be able
+to do what I want. Until then. I had an idea this morning for a prop hunt type
+gametype inspired by my hoarders gametype. I started working on playing around
+with what the mechanics will be like. Lots of snowmen, in the dark, low
+exposure, change into one, sneak around, find another snowman, kill them for
+their loot, and gather as much loot as possible before the end. Right now just
+screwing around, but I think I might have something. Just gotta keep
+experimenting.
+
 ## #14
 
 Spent this session designing a system where you can change a player's team
