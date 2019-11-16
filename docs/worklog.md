@@ -1,5 +1,13 @@
 # Worklog
 
+## #19
+
+We started work on the Hacker decider system using an RNG re-roll machine. And
+after setting that up, we started work on the hacker assigner system, which will
+turn the designated killer into the killer when they activate a store. We tested
+it with the first store, and now it just needs to be duplicated for the other
+stores. But it all seems to work well.
+
 ## #17, #18
 
 Went back to working on Clue. Started with building out the store security
