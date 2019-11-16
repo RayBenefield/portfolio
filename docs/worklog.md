@@ -1,5 +1,18 @@
 # Worklog
 
+## #16
+
+Gave up on the sneaky snowman exploration for a bit. Tried to test my theory for
+round based changing of teams and that didn't work either. So instead I started
+to explore what will be needed to make Clue work. Now that we have attribute
+triggers, I have the ability to check whether an activator of the button is a
+killer or a guard. This makes a huge difference. And also having 25 more
+channels makes a big difference as well. I should have enough tools to create
+Clue. So now the trick will be building the system to make Clue work and test
+it. I might actually work on that today on stream. So we shall see how things
+go. If not I'll finish Inception. I have multiple options to attempt to get
+done.
+
 ## #15
 
 So yesterday, after I put in my worklog entry. I realized there was something
