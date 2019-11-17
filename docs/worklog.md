@@ -1,5 +1,13 @@
 # Worklog
 
+## #23
+
+Spent time working on the win condition system. Hackers get 10 points per store
+hacked, when a score of 50 is reached, they win. Guards will get 50 (currently
+it is 500 cuz it is bugged) points when they kill the hacker, this will also end
+the game. Now I have to work on a messaging system so hackers know they are the
+hacker.
+
 ## #20, #21, #22
 
 Continued work on the hacker assignment system. I had to duplicate everything
