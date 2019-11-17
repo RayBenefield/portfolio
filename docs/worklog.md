@@ -1,5 +1,15 @@
 # Worklog
 
+## #20, #21, #22
+
+Continued work on the hacker assignment system. I had to duplicate everything
+and create a configuration that would be easy to edit as I duplicated it for
+each store. And I had to split up the class selector into 4 pieces so that way
+it would not overload a single channel with too many receivers since the limit
+is 60 receivers per channel. But now I have an infinite loop to deal with, and
+I'll figure that out next session. But the mechanics of Clue are close to being
+done. Then I have to make a win condition and actually build the full map.
+
 ## #19
 
 We started work on the Hacker decider system using an RNG re-roll machine. And
