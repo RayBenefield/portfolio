@@ -1,5 +1,12 @@
 # Worklog
 
+## #24
+
+Was going to work on the HUD message, but it won't work out the exact way that I
+want. So instead I just started filling the sample mall to get a quick prototype
+working of the gametype. I setup all 8 stores and now I have to setup the spawn
+system and a trigger to start searching for the hacker sooner rather than later.
+
 ## #23
 
 Spent time working on the win condition system. Hackers get 10 points per store
