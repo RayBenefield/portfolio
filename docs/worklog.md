@@ -1,5 +1,11 @@
 # Worklog
 
+## #25
+
+Setup the spawn areas and the lighting and blockers in order to make the
+gametype playtestable. And everything seems to be working great. Now it just
+needs a full custom map built for it.
+
 ## #24
 
 Was going to work on the HUD message, but it won't work out the exact way that I
