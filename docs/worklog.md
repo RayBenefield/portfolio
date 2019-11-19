@@ -1,5 +1,16 @@
 # Worklog
 
+## #28, #29
+
+Finally found a decent style for the weapon organization. Had to shift the sign
+upwards and make the rift more obvious, but ultimately the room looks really
+nice. You can see the signs for each weapon station and you can see the portal
+even when you spawn. When you respawn you can see the loadout room on the right.
+The entire area looks solid. All I'm missing is a spawn room class, a weapon
+free zone, and an in-game class. I then need to script players to switch classes
+when they enter the map. Finally, I'll need to clean up the mini-map for the
+spawn room.
+
 ## #26, #27
 
 Spent a lot of time on performance optimizations for Inception. Removed two full
