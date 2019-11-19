@@ -1,5 +1,14 @@
 # Worklog
 
+## #26, #27
+
+Spent a lot of time on performance optimizations for Inception. Removed two full
+tiles off the top as well as the whole additional stuff on top of the map for
+the minimap. It was worth removing it for the bit of extra performance.
+Sometimes the unloading was nearly twice as fast. So hopefully as more
+performance updates come to Creative it should get a much smoother unloading
+experience.
+
 ## #25
 
 Setup the spawn areas and the lighting and blockers in order to make the
