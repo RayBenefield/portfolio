@@ -1,5 +1,23 @@
 # Worklog
 
+## #38, #39
+
+New patch came out this morning and I am honestly PSYCHED to get to work on some
+new gametypes. I think my Risk gametype is possible now as well as a Contract
+based killing system. I'm super excited. But for now I spent two sessions doing
+some more cleaning up of Inception. Changed to the new barrier setup with a
+hollow box which fixed a problem on the roof where you could see the tops of all
+the objects. Sadly we don't have the right width or depth to work with for the
+full boundaries, but I left the side ones until they add more size options. I
+also had to re-create the item spawners so they work properly after the patch. I
+added oversized glacier walls that block out the sunlight properly since
+lighting doesn't include the barriers. They were worth the performance cost to
+create a better lighting experience. I swapped the Six Shooter with the purple
+pistol as well. Everything should be mostly ready. I can do more performance
+optimizations in the future now that we can convert any build piece to a prop. I
+have lots more options. But it is good for now. I think I just need playtesting
+right now and perhaps a default loadout.
+
 ## #35, #36, #37
 
 Finished up removing the rest of the floors and walls and replaced them with
