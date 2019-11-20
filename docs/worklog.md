@@ -1,5 +1,16 @@
 # Worklog
 
+## #30
+
+Setup the spawn system and the new class system that will give you max speed
+while in the spawn room. All that's really left is the weapon-free zone and
+optimizing the sign on the wall and probably a minimap cover for the spawn room.
+Though that actually isn't that important, so I won't do it due to performance
+reasons. It was important for the main map to remove focus on the minimap during
+the game. We should be just about ready for a full release. One more quick
+session, then a few playtests and filming for a trailer, then writing up the
+post.
+
 ## #28, #29
 
 Finally found a decent style for the weapon organization. Had to shift the sign
