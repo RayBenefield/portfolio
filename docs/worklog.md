@@ -1,5 +1,17 @@
 # Worklog
 
+## #31, #32, #33, #34
+
+So I realized that I have some REALLY good options for optimizations for
+performance sake. First of all, I have stretchable prop blocks that I can use as
+walls. In addition to that I can use the barrier device to create a pure black
+wall... which I can use for the roof of the spawn room, but also use as the
+walls for the actual map and the roof as well. So I have removed a LOT of pieces
+as a result. It has made a huge difference in terms of loading time. Hopefully I
+remove the unloading stutters that it normally causes. I still have more sides
+to remove to optimize, but ultimately things are moving very very quickly for
+how much performance I'm squeezing out.
+
 ## #30
 
 Setup the spawn system and the new class system that will give you max speed
