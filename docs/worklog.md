@@ -1,5 +1,18 @@
 # Worklog
 
+## #35, #36, #37
+
+Finished up removing the rest of the floors and walls and replaced them with
+barriers to save more memory. Seems like everything is working. There were a few
+sacrifices like lighting is a tad weird near the tops and sides because barriers
+don't block the map's natural light sources. But it's worth the performance
+optimizations. The map now loads over 3 times faster than it did. Now in less
+than a minute when it was over 2 mins before... closer to 3. There's probably
+one or two more sessions before this is done. I think I may need to setup a
+default loadout so people can immediately jump into the game without swapping
+things out. We shall see how testing goes tomorrow. For now... I'm done. Did a
+LOT of work today. 10 total sessions in one day is quite a bit.
+
 ## #31, #32, #33, #34
 
 So I realized that I have some REALLY good options for optimizations for
