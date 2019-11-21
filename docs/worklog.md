@@ -1,5 +1,12 @@
 # Worklog
 
+## #40, #41
+
+Did some quick playtesting for Inception. Had to adjust the teleporters to not
+be in the teleporter group as well as adjust the spawn system to more reliably
+spawn players in the quick spawn lane. Also had to adjust lighting a bit so you
+could see the sign in the spawn room better.
+
 ## #38, #39
 
 New patch came out this morning and I am honestly PSYCHED to get to work on some
