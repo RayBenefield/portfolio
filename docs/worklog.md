@@ -1,5 +1,18 @@
 # Worklog
 
+## #44
+
+Some minor updates to Inception. I realized the light shining into the spawn
+room was being blocked by the barriers and weapon free zone lines. So I
+increased their sizes to prevent it from messing up the lighting on the sign. I
+also adjusted the screenshot for the map. I also explored what the next set of
+optimizations will be as I move forward to improve the map performance. Setting
+tiles to props will be the next optimization which will essentially be a full
+rebuild of the bulk of the map, rebuilding the columns and the ramps. However
+this optimization may get rid of the stutter when unloading the map. Now I need
+to start working on the publishing materials to publish Inception tomorrow and
+play it on stream.
+
 ## #42, #43
 
 Started exploring some of the new devices available and new options available in
