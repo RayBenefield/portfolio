@@ -1,5 +1,11 @@
 # Worklog
 
+## #42, #43
+
+Started exploring some of the new devices available and new options available in
+Creative. Kill confirm is sort of possible. Risk is definitely a creatable
+gametype now that I need to create. I can use build materials as well.
+
 ## #40, #41
 
 Did some quick playtesting for Inception. Had to adjust the teleporters to not
