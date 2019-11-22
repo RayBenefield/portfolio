@@ -1,5 +1,11 @@
 # Worklog
 
+## #50
+
+Started working on the prototype for my Risk boardgame gametype. Just setup the
+basic map and aesthetics and next thing to work on is the switch system that
+will unlock territories.
+
 ## #49
 
 Created the post for both Reddit and Twitter... what is left is submitting it to
