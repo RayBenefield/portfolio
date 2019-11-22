@@ -1,5 +1,10 @@
 # Worklog
 
+## #45, #46
+
+Started off by collecting some clips from the gameplay yesterday. I don't need
+much since it is only just a teaser trailer to show off the map.
+
 ## #44
 
 Some minor updates to Inception. I realized the light shining into the spawn
