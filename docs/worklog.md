@@ -1,5 +1,11 @@
 # Worklog
 
+## #47, #48
+
+Spent a couple sessions just throwing together the trailer. Not the greatest,
+but I'll be more informed and less rushed in the future. This is my first go
+around with my new routine. Next is the post.
+
 ## #45, #46
 
 Started off by collecting some clips from the gameplay yesterday. I don't need
