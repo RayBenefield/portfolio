@@ -1,5 +1,11 @@
 # Worklog
 
+## #51, #52
+
+Started work on the full switch system for Risk. Setup the first couple
+territories that unlock when you capture any adjacent one. Still have lots to
+go.
+
 ## #50
 
 Started working on the prototype for my Risk boardgame gametype. Just setup the
