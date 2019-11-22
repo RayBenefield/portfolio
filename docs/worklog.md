@@ -1,5 +1,11 @@
 # Worklog
 
+## #49
+
+Created the post for both Reddit and Twitter... what is left is submitting it to
+Epic Games for featuring as well as writing my portfolio post for Inception into
+this repository. Going to be playing this in playground fill to spread the word.
+
 ## #47, #48
 
 Spent a couple sessions just throwing together the trailer. Not the greatest,
