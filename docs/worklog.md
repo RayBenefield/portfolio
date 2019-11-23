@@ -1,5 +1,11 @@
 # Worklog
 
+## #53, #54, #55
+
+Finished up ALL the switching systems to make Risk work. Including the
+territories opening other territories, and visual blockers being removed so it
+is clear where you can go next.
+
 ## #51, #52
 
 Started work on the full switch system for Risk. Setup the first couple
