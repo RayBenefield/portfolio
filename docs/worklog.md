@@ -1,5 +1,13 @@
 # Worklog
 
+## #56
+
+Fixed up the Risk issues. I needed to setup the objective to end at 20 captures,
+in order to do that I needed to add 2 more objectives, one for each team. So I
+added a new starting one that will unlock the first three. We'll see how things
+progress, so I can figure out how to improve the gameplay a bit and make it more
+interesting.
+
 ## #53, #54, #55
 
 Finished up ALL the switching systems to make Risk work. Including the
