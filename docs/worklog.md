@@ -1,5 +1,12 @@
 # Worklog
 
+## #57, #58, #59, #60
+
+Spent 4 full sessions just removing the bushes of the old height and putting new
+bushes of the lowered height. It took the full hour and a half. Next is to
+verify the visible vs invisible system to make it work better. Once it works
+properly then it should be testable.
+
 ## #56
 
 Fixed up the Risk issues. I needed to setup the objective to end at 20 captures,
