@@ -1,5 +1,20 @@
 # Worklog
 
+## #61, #62
+
+Realized I never put in my last couple sessions from the stream two days ago. My
+last couple sessions were spent setting up the perception triggers on the new
+map. I moved them higher than they were and removed all the bonus settings. Only
+to discover that a channel needs to be set for the animated portion of the
+perception trigger. So now I have to go through and turn the channel on for
+every single perception trigger to make it playable in a good way. One of the
+things I want to tackle today is adjusting the weapons a bit, perhaps finding a
+better way to grant ammo/weapons. I also want to add gas/smoke grenades to be
+able to improve a person's ability to get weapons or make it easier to traverse
+certain areas of the map. I want to move the scars a little bit as well as
+change out the sniper to something a little more reliable. Later I also want to
+create a gallery map for building more Covet maps in the future.
+
 ## #57, #58, #59, #60
 
 Spent 4 full sessions just removing the bushes of the old height and putting new
