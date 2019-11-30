@@ -1,5 +1,11 @@
 # Worklog
 
+## #63, #64, #65
+
+Started exploring a kill contract gametype I'm dubbing Gunrunners. Right now I
+worked on the system for changing your contract when you turn in the gun that
+you have. I need to adjust the system to never choose the class that you are.
+
 ## #61, #62
 
 Realized I never put in my last couple sessions from the stream two days ago. My
