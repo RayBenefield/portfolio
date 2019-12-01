@@ -1,5 +1,13 @@
 # Worklog
 
+## #66
+
+This morning fixed up all the perception triggers on Covet to ensure that they
+actually look at players and highlight them. This is necessary for the new
+Covet. Next thing that really need to work on is the corner bushes so you aren't
+revealed as you crouch around the map. I also need to adjust the weapon balance
+for the map.
+
 ## #63, #64, #65
 
 Started exploring a kill contract gametype I'm dubbing Gunrunners. Right now I
