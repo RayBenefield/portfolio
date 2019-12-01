@@ -1,5 +1,15 @@
 # Worklog
 
+## #67, #68
+
+Setup a new system to avoid teams getting a contract for themselves. Instead of
+counting players entering the game, we just guarantee that a store/contract is
+available when that team exists in a game. The team number will dictate the gun
+they are running, and a gated system exists that makes sure that the class
+number for a new contract, does not match the team number for the team that
+needs a contract. This avoids teams getting contracts for themselves. Now to
+work on the actual dropping of weapons and the stores.
+
 ## #66
 
 This morning fixed up all the perception triggers on Covet to ensure that they
