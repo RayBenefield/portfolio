@@ -1,5 +1,14 @@
 # Worklog
 
+## #69, #70
+
+We setup the stores and the gun dropping systems for each of the teams. In
+addition we avoided the potential bug of mutliple teams turning in a contract
+while another team is waiting for a new contract. The gametype will not work
+until we have a way to give HUD messages to specific players or classes. When we
+can do that then we can tell players what their contract is. Until then... this
+will wait to be played.
+
 ## #67, #68
 
 Setup a new system to avoid teams getting a contract for themselves. Instead of
