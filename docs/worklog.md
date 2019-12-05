@@ -1,5 +1,14 @@
 # Worklog
 
+## #77
+
+Finished up all of the convex and concave corners that were missing pieces. I
+just have one more batch which are the bushes around the spawn areas. Once that
+is done I have to cover the floor with grass once again. When that is done then
+I need to remove all of the gallery stuff outside of the map. After that I'm not
+sure what is left. Perhaps a nebula skybox or something will make it feel
+better.
+
 ## #73, #74, #75, #76
 
 Started working on the corner bushes, but ran into a lot of problems with pieces
