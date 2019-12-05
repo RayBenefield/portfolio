@@ -1,5 +1,12 @@
 # Worklog
 
+## #71, #72
+
+Duplicated the Covet map so I could create a gallery of pieces for Covet so I
+can make new Covet maps in the future with the same mechanics. Spent these two
+sessions just deleting the main portion of the map to leave the reusable pieces.
+Next focus is to fill in the corner bushes all over the map.
+
 ## #69, #70
 
 We setup the stores and the gun dropping systems for each of the teams. In
