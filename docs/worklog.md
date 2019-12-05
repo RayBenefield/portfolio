@@ -1,5 +1,16 @@
 # Worklog
 
+## #73, #74, #75, #76
+
+Started working on the corner bushes, but ran into a lot of problems with pieces
+being deleted as I was working on things. So I had to remove the entire grass
+floor so I could start from a good point. Now I've got into a good groove where
+I'm "painting" corner bushes on the convex corners. Once I'm finished with
+those, I have to work on the concave corners. The reason for these bushes is to
+prevent people getting spotlights on them even when they are crouched and
+traversing the map. They should only be revealed with spotlights if they are
+uncrouched.
+
 ## #71, #72
 
 Duplicated the Covet map so I could create a gallery of pieces for Covet so I
