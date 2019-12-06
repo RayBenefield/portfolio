@@ -1,5 +1,15 @@
 # Worklog
 
+## #80, #81
+
+Finished up the last of the polishing. The trees on the edge were rotated
+randomly to add some variety, then duplicated to thicken the edges of the
+minimap. I also added a HUD message to teach people to crouch below the bushes
+to turn off the spotlights. One gameplay change I made was reducing a player's
+inventory to only 3 slots. This should improve gameplay for much larger groups
+of players to ensure more weapons are available for pickup. Covet is now
+officially published. :D https://www.epicgames.com/fn/9730-1332-8075
+
 ## #78, #79
 
 Finished up the last of the bush cornering that needed to happen around the
