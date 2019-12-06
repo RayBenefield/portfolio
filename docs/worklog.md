@@ -1,5 +1,11 @@
 # Worklog
 
+## #82, #83, #84
+
+Started the prototype for stormbreaker. It seems to work alright, but I setup
+one side off the grid by one. So I have to redo that whole area as well as
+figure out a way to end the game when an entire side is destroyed.
+
 ## #80, #81
 
 Finished up the last of the polishing. The trees on the edge were rotated
