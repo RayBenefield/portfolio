@@ -1,5 +1,14 @@
 # Worklog
 
+## #78, #79
+
+Finished up the last of the bush cornering that needed to happen around the
+spawn areas. Then recreated the entire grass floor with less pieces than it
+originally had because object sizing is now to x5 instead of x3. Also restarted
+the surrounding tree cover. I still need to finish filling it in, but I think it
+is pretty much good to go. The map feels like it's pretty much done and ready
+for publishing.
+
 ## #77
 
 Finished up all of the convex and concave corners that were missing pieces. I
