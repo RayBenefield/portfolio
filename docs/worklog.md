@@ -1,5 +1,23 @@
 # Worklog
 
+## #88
+
+So I've setup the room search to trigger after the challenge search. When a room
+is selected it disables all other rooms from being opened, and also opens the
+challenge for that room in the challenge search. Next thing to do is to prevent
+a room search if a challenge is found, now that we can open challenges. I've
+also designed a system where a player can leave a room when there is no
+challenger. This will make the room available and remove the challenge
+associated with the room. So if nobody is available to start a challenge, they
+can go back to spectating and wait for another player to be available for a
+challenge.
+
+Winners stay in the room they win and get ported back to the starting
+point to wait for a new challenger. Thinking about it, I won't have an easy
+system to reset the builds in the room, that will probably be the main problem.
+I can probably create a system where players are responsible for clearing out
+their rooms, but I'll worry about that later.
+
 ## #86, #87
 
 I just came up with the craziest idea and as a result created a super powerful
