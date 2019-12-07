@@ -1,5 +1,15 @@
 # Worklog
 
+## #89, #90
+
+Created the lobbies to be joined when a lobby is both opened as a new room as
+well as when a player joins an open lobby. The test seems to be successful. I
+need to shut off the matchmaking button until both searches are done, but I also
+need to actually make each of the box fight rooms as well as add the elimination
+manager that will trigger when someone gets a kill in that lobby. We will use
+classes to designate who is in what lobby to know when the elimination manager
+should fire.
+
 ## #88
 
 So I've setup the room search to trigger after the challenge search. When a room
