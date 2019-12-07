@@ -1,5 +1,12 @@
 # Worklog
 
+## #85
+
+Fixed the entire side that was off by one and added blockers all over the place
+so they work properly and keep players in the map. The only thing the map needs
+now is a win condition system so when the entire side of the map is destroyed it
+should trigger the win for the other team.
+
 ## #82, #83, #84
 
 Started the prototype for stormbreaker. It seems to work alright, but I setup
