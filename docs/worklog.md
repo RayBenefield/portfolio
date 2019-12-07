@@ -1,5 +1,24 @@
 # Worklog
 
+## #86, #87
+
+I just came up with the craziest idea and as a result created a super powerful
+device that I need for future things. I want to design a Box Fight gametype
+where you are able to continuously participate in box fights. When someone tries
+to challenge someone else, if there are no available challengers it will create
+a new room and put that person in that room making that person available for a
+challenge. However if there is an available challenger it will put that person
+in that available room and then make it no longer available then start the
+fight. To do this I needed to create a search engine that will scan for
+available challenges to join. Then if it fails to find one, it will trigger a
+new search for an available room, create it and then make it available for
+challenging so the next challenge search will find it. This is a SUPER complex
+system, but could be very valuable to the competitive Fortnite community.
+
+I just spent 2 sessions and created the search engine system. Now I need to use
+that to create the "Forever Fights" game mode. I'm very happy with my progress
+and super pumped for this.
+
 ## #85
 
 Fixed the entire side that was off by one and added blockers all over the place
