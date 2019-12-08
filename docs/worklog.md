@@ -1,5 +1,14 @@
 # Worklog
 
+## #95
+
+Finished up the class system for box fights to assign weapons accordingly. You
+are invulnerable and get c4 to clear out the builds from the previous fight. The
+weapons are a purple pump, blue ar, 1 slurp fish, and 3 minis with 500 wood. I
+have to adjust the class selector system to not overlap into the spectator zone,
+but other than that it looks like it is mostly working and just needs some final
+tweaks.
+
 ## #94
 
 Setup the blocker systems for box fight mechanics. There is an invisble blocker
