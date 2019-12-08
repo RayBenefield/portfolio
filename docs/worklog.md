@@ -1,5 +1,17 @@
 # Worklog
 
+## #91, #92, #93
+
+We finished up all of the box fight arenas with proper sizing, a box, and home
+and away portal spawns. We made sure the leave lobby button worked as well as
+double checked our scripting systems to make sure everything was in order. Also
+setup the elimination manager system that detects when someone wins their box
+fight. The next thing to do is to setup barriers to run the box fight
+accordingly. A barrier to prevent people from seeing where the other person
+starts, and another barrier that is transparent and allows the winner to clear
+out the builds of the room. Hopefully one day we'll get explosives that can
+clear the builds automatically.
+
 ## #89, #90
 
 Created the lobbies to be joined when a lobby is both opened as a new room as
