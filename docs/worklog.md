@@ -1,5 +1,15 @@
 # Worklog
 
+## #94
+
+Setup the blocker systems for box fight mechanics. There is an invisble blocker
+that is always there by default to allow players to see through it and clear out
+the builds of the previous fights and you should be invulnerable during that.
+There is an opaque barrier that spawns when a challenger arrives and then it
+disappears with the invisible blocker 5 seconds after the challenger to start
+the fight. When the winner is decided, they get teleported to the host side and
+the invisible blocker respawns and you are given a class with C4 only.
+
 ## #91, #92, #93
 
 We finished up all of the box fight arenas with proper sizing, a box, and home
