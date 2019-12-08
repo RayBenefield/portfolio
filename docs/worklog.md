@@ -1,5 +1,11 @@
 # Worklog
 
+## #96
+
+Made the final modifications for making the box fight mechanics work for the
+most part, just need to lock down the leave lobby buttons and the join
+matchmaking button until the searches are done.
+
 ## #95
 
 Finished up the class system for box fights to assign weapons accordingly. You
