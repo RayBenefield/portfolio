@@ -1,5 +1,15 @@
 # Worklog
 
+## #97, #98, #99, #100
+
+Worked on various bugs that were causing problems. One bug involved having
+multiple open lobbies available that could be chosen. I need to add another set
+of channels to setup a gate for checking open lobbies, so if one open lobby is
+joined, the others can't be joined until search reset. The next bug I just
+discovered requires the lobby be open separately from the room being open.
+Because when a player gets eliminated we need to send on a separate channel so
+it doesn't assume all rooms are unavailable.
+
 ## #96
 
 Made the final modifications for making the box fight mechanics work for the
