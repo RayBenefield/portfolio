@@ -1,5 +1,11 @@
 # Worklog
 
+## #101
+
+Finally finished what seems like most of the bugs for Forever Fights... there is
+still one bug that happens randomly, but it looks like it is recoverable for
+now. I'm excited for making it all pretty and working now. YAY!!!
+
 ## #97, #98, #99, #100
 
 Worked on various bugs that were causing problems. One bug involved having
