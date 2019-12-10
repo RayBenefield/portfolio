@@ -1,5 +1,12 @@
 # Worklog
 
+## #102, #103
+
+Earlier today I created a quick prototype based on a reddit user's request. It
+allows teams to capture a zone to gain control of a weapon and when they respawn
+they also get all weapons based on what they control when they respawn. Took an
+hour.
+
 ## #101
 
 Finally finished what seems like most of the bugs for Forever Fights... there is
