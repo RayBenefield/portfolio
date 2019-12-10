@@ -1,5 +1,15 @@
 # Worklog
 
+## #104, #105
+
+Started working on a new linear matchmaking algorithm. It looks like it clears
+up some scripting channels that I can use for other things like immediate lobby
+creation when no open lobbies exist. And the matchmaking is much faster.
+However, the big problem I am running into is that sequencers do not pass the
+instigating player and hence I can't portal players using this new matchmaking
+system. Which sucks cuz it could be amazing for the system. I'm going to file a
+bug on Reddit tonight and hope that it gets tracked and fixed.
+
 ## #102, #103
 
 Earlier today I created a quick prototype based on a reddit user's request. It
