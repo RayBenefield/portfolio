@@ -1,5 +1,25 @@
 # Worklog
 
+## #106, #107, #108
+
+Move is all done and I found some time this morning to get some work done.
+Despite a bunch of bugs in the controls, I was able to get something working
+this morning. This most recent update added a quest/challenge tracker which was
+actually able to solve my problem with telling people which contract they had
+for Gunrunners. So now I think I have a solid playable game system for
+Gunrunners that just needs to be tested with a larger group. I now assign a
+quest to a person to match the contract that they have been given and remove the
+quest when they turn in the contract. The only thing I have to verify is whether
+or not a quest is removed from multiple people when the same contract is
+fulfilled. I don't think this will happen, but I just need to ensure it doesn't.
+
+The next thing I want to do is actually go play with Clue and make it assign the
+quest to the hacker when they become the hacker, rather than telling a person
+that they are the hacker before they actually become the hacker (securing a gate
+after they have been chosen to be a hacker). When I'm done with that I want to
+play with the aesthetics of the Gunrunner mechanism and make it easily testable.
+I also need to give Stormbreaker a win condition.
+
 ## #104, #105
 
 Started working on a new linear matchmaking algorithm. It looks like it clears
