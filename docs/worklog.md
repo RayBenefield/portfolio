@@ -1,5 +1,23 @@
 # Worklog
 
+## #109, #110, #111
+
+Now that I've confirmed that Gunrunners is actually playable I'm at the part
+where I am designing the layout for the actual map. I'm pumped and this is a ton
+of fun. I'm excited to encourage the hiding aspect of weapons as well as
+encouraging a constant up and down traversal of the map. I started working on
+figuring out where the vendors should go and properly spacing them out and then
+filling the in with buildings based on the pueblo prefabs. I'll divide the map
+similar to the block fort map from Mario Kart... a color per corner. I also have
+to consider the order in which teams are filled in. There is tons to consider,
+but this map will probably be my most complex at this point.
+
+The system I'm using to make Gunrunners work is made up of 49 triggers, 48
+attribute triggers, 16 quest trackers, 16 elimination managers, 16 class
+selectors, 16 conditional buttons, 2 score managers, and a partridge in a pear
+tree (an RNG). So it is fairly complex. But it works. :D I'm sooo excited to get
+this working.
+
 ## #106, #107, #108
 
 Move is all done and I found some time this morning to get some work done.
