@@ -1,5 +1,13 @@
 # Worklog
 
+## #116
+
+Copied the one corner I had created all over the rest of the map and now I have
+a fully developed map. The next thing I need to do is make it actually playable
+by setting up the vendors and the spawns and the bulletin boards. Gotta figure
+out where to start... I think I need to start by first creating the new bulletin
+board system before actually populating the map.
+
 ## #112, #113, #114, #115
 
 Filled in the rest of a single corner of the basic layout built with just wood.
