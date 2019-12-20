@@ -1,5 +1,12 @@
 # Worklog
 
+## #117
+
+Thanks to Tubby and PTO I was able to rebuild the system to account for having a
+bulletin board now. I've also updated the scoring system to negative points
+whenever you kill anyone and lots of positive points for a successful contract,
+that should reduce the amount of people just killing for fun.
+
 ## #116
 
 Copied the one corner I had created all over the rest of the map and now I have
