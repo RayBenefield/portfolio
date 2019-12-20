@@ -1,5 +1,15 @@
 # Worklog
 
+## #118
+
+Setup the stores on the map and setup the initial team settings with a blue
+tactical shottie and tons of shottie ammo. I've also decided to turn on names to
+allow bigger games to not get frustrating so you have a goal of checking each
+player. It also gets rid of the frustration of people with the same skins. Next
+steps are going to be setting up spawns and bulletin boards. First bulletin
+boards... they should work out well hopefully, just gotta find enough spots on
+the map that it makes sense.
+
 ## #117
 
 Thanks to Tubby and PTO I was able to rebuild the system to account for having a
