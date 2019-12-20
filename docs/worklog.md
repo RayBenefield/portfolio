@@ -1,5 +1,15 @@
 # Worklog
 
+## #112, #113, #114, #115
+
+Filled in the rest of a single corner of the basic layout built with just wood.
+I'm at the point where I can just copy the corner into the other 3 corners and
+get it ready to playtest. I also setup where all 16 vendors are going to be on
+the map. I was able to also design a cool looking bulletin board to be used when
+people do not have a contract. Instead of having players automatically get a
+contract when they turn in the a contract, they will have to go to a bulletin
+board whenever a contract is available (nobody is being assigned a contract).
+
 ## #109, #110, #111
 
 Now that I've confirmed that Gunrunners is actually playable I'm at the part
