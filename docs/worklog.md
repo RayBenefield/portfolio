@@ -1,5 +1,24 @@
 # Worklog
 
+## #119, #120, #121, #122, #123
+
+Alright so I did a ton of work on getting the prototype for Gunrunners playable.
+I started out these 5 sessions with setting up the wanted posters to acquire
+contracts... I found locations for them and placed them everywhere. Then
+realized that you could activate buttons through walls and had to resize them
+and perfectly position them then replace them everywhere. I then realized that
+an increased movement speed allowed for more parkour options because you had a
+farther jump, so I played with that for a bit. Then this last session I started
+working on a spawn system.
+
+So with the spawn system I found that I wanted to use teleporters to control
+direction and specific location for spawns. Then realized players weren't facing
+the proper direction when I did that. It was the fact that teleporting happens
+too fast. So I setup an intermediate teleporter in a black box so players drop
+into a second teleporter... this allowed me to enforce direction properly as
+needed. Now that I have a system I just have to polish it up a bit and place all
+the teleporters... I'm going to take a quick break though.
+
 ## #118
 
 Setup the stores on the map and setup the initial team settings with a blue
