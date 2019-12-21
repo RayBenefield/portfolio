@@ -1,5 +1,19 @@
 # Worklog
 
+## #124, #125, #126, #127
+
+So I tried to setup spawns, at first I tried to do them with teleporters so I
+could control the angle a player is facing, but that turned out not to work
+well for various reasons. I fiddled with it quite a bit and it looks like I'm
+just going to have to go with regular spawns. Then I realized that when a player
+dies while negotiating a contract the system doesn't get the chance to reset
+because when the player dies the instigator of the event gets removed so it
+can't trigger the attribute channels that reset the ability to get contracts. So
+I need to get creative and figure out how to circumvent that problem. My theory
+is only make players vulnerable when they have a contract and they can't deal
+damage to a player when they don't have a contract also. I'll have to explore
+options.
+
 ## #119, #120, #121, #122, #123
 
 Alright so I did a ton of work on getting the prototype for Gunrunners playable.
