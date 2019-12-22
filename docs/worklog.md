@@ -1,5 +1,17 @@
 # Worklog
 
+## #131, #132, #133
+
+Alright so the spawning system seems to be fully working properly. I discovered
+that I used the wrong channels so I'm going to have to fix that to make it
+playable. The next thing I have to figure out is how to fix the bug of a player
+dying while their contract is being negotiated. I was going to make them
+invincible but realized I can't do that or anybody without a contract is
+invincible and if I do that then people could get a contract for someone that
+was invincible and would be stuck on that contract. So I was going to try to
+make them invincible while they were searching for a contract, but I don't have
+an extra class. So I have to come up with a different way to solve this problem.
+
 ## #130
 
 Started the spawning room system and realized that the wanted posters will be
