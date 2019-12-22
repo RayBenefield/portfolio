@@ -1,5 +1,12 @@
 # Worklog
 
+## #130
+
+Started the spawning room system and realized that the wanted posters will be
+easier to see see with lights on during the warm up phase. So I setup lights
+around each wanted poster that I could find. Looks like I missed one, but now I
+can get back to the spawn room system.
+
 ## #128, #129
 
 So I've spent almost all morning yesterday trying to figure out a good spawning
