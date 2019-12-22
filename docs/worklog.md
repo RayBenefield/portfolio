@@ -1,5 +1,34 @@
 # Worklog
 
+## #128, #129
+
+So I've spent almost all morning yesterday trying to figure out a good spawning
+solution to use portals as "spawns". The problem with most solutions is they
+won't catch a player on respawn at all which is terrible. It would only work at
+game start. But I finally found a solution that will catch you consistently on
+respawn. So I have a couple needs. I need to not use many channels, I need all
+players to spawn at different locations at the beginning of the game, I need
+respawns to also be random.
+
+My solution will be the following, there will be a box of 16 player spawns, each
+spawn has a teleporter tied to a different group. These teleporters will handle
+the initial spawn into the game at guaranteed different locations. In addition
+there will be a capture plate that takes gold coins and teleports on gold coin
+consumption. This will handle respawns. In order to make respawns random I need
+to have another box of 16 teleporters that react to the single channel for
+teleporting for all the capture plates, but it randomly chooses one of those 16
+teleporters and drops you into one of the 16 grouped teleporters. This ensures
+that I won't need a channel per teleporter. This whole system only costs 2
+channels. In addition to the teleport channel, there is a toggle disable/enable
+channel on a timer 1 sec loop. This enable/disable system is what guarantees
+trigger on respawn. The reason we need a gold coin is because just "capturing"
+doesn't trigger on enable/disable toggle when a player spawns directly in it.
+HOWEVER, an item filter and consumption WILL trigger, I'm assuming because there
+is a secondary event that checks for capture regularly that will trigger on a
+stationary respawned player. This also means I need a team settings plate that
+grants a gold coin on respawn. And that should be all the pieces needed... a
+very complex system, but something that should achieve my goals.
+
 ## #124, #125, #126, #127
 
 So I tried to setup spawns, at first I tried to do them with teleporters so I
