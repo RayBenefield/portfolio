@@ -1,5 +1,11 @@
 # Worklog
 
+## #135, #136, #137, #138, #139, #140, #141
+
+So I actually spent a ton of time creating logos and a basic stream overlay to
+show the name of the map we are playing on as well as the code. Super simple
+right now. I'm actually quite happy cuz I found something that feels good.
+
 ## #134
 
 I believe I have a fix for the dying while negotiating a contract bug that uses
