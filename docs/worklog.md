@@ -1,5 +1,15 @@
 # Worklog
 
+## #134
+
+I believe I have a fix for the dying while negotiating a contract bug that uses
+a sequencer to reset the wanted posters. If it doesn't get a re-roll trigger
+after X amount of time it will enable the wanted posters again to allow for a
+new contract. This either happens when a contract is given or when a person dies
+before getting their contract. I am working on the alternate spawn system right
+now, trying to build a reliable teleport system out of dropping people into a
+teleporter. Hopefully it works well.
+
 ## #131, #132, #133
 
 Alright so the spawning system seems to be fully working properly. I discovered
