@@ -1,5 +1,11 @@
 # Worklog
 
+## #148
+
+Finished up the last bits for Stormbreaker. Moved the checkpoints and added
+decals accordingly, just needs a final test to verify. Also added a HUD message
+for players to know how to play.
+
 ## #146, #147
 
 Setup the blockers to allow for weapon fire and we created a switch system using
