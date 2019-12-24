@@ -1,5 +1,13 @@
 # Worklog
 
+## #142, #143, #144, #145
+
+Spent many sessions trying to redesign the stream overlay that holds the
+information on the current map so it looks more detailed and cleaner. I think I
+have something I can work on later, but I need to move on to creating logos for
+all of the gametypes I have before anything so I at least have those setup and
+ready to go for the stream.
+
 ## #135, #136, #137, #138, #139, #140, #141
 
 So I actually spent a ton of time creating logos and a basic stream overlay to
