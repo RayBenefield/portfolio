@@ -1,5 +1,13 @@
 # Worklog
 
+## #146, #147
+
+Setup the blockers to allow for weapon fire and we created a switch system using
+sequencers to trigger a win condition when one team defeats the other and breaks
+their structures. The next thing to do is extend the locations of the
+checkpoints so the decision to hit a checkpoint is a deliberate one and slows
+you down towards the middle.
+
 ## #142, #143, #144, #145
 
 Spent many sessions trying to redesign the stream overlay that holds the
