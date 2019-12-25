@@ -1,5 +1,14 @@
 # Worklog
 
+## #149, #150
+
+Spent a couple sessions just creating new overlays for every single gametype
+idea I've had that needs to be published. Right now I'm at 15 ideas... which is
+absolutely insane. And I'm not even close to done yet. So pumped to get all of
+these published. It's awesome that every single one is unique in its own way.
+There is no duplicate gameplay in the slightest. Just gotta keep building and
+pushing out as fast as I can while coming up with new ideas.
+
 ## #148
 
 Finished up the last bits for Stormbreaker. Moved the checkpoints and added
