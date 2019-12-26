@@ -1,5 +1,12 @@
 # Worklog
 
+## #162, #163, #164
+
+Found some bugs in the room search system, patched those up and I think I have
+everything working. I just need to setup the class and timer and mutator system
+to verify the box fights are actually fully fleshed out, then I need to actually
+build everything according to 5 different rooms.
+
 ## #159, #160, #161
 
 I think I fully re-setup the matchmaking system with 3 available rooms while
