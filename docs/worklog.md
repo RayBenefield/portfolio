@@ -1,5 +1,21 @@
 # Worklog
 
+## #159, #160, #161
+
+I think I fully re-setup the matchmaking system with 3 available rooms while
+also creating the ability to join and create a lobby on the fly at each
+individual lobby. This should speed things up as not everyone needs to join
+matchmaking right away, they can all run and start lobbies and this also allows
+people spectating to challenge said person. Could result in great moments of
+matching against the person that keeps winning while you spectate. And leaving
+is now disabled during a match so that will be good as well. Next things to do
+is to build in the blocker/timer start match and elimination system. If that all
+works well then I can build the whole system with - what looks like - 5 rooms
+total. Meaning optimal size of games is 10, but it can hold 16, they just have
+to wait for a lobby to open up. I want to build an infinite matchmaking system
+that will keep searching until a room or lobby becomes available. So that way
+people that can queue up and wait for the next available.
+
 ## #157, #158
 
 Started working on a revamped system for Forever Fights. I am setting up lobbies
