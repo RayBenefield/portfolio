@@ -1,5 +1,10 @@
 # Worklog
 
+## #165
+
+Finished up the bases and the roof and the vines and the bushes for the new
+style for Risk. Should be close to done, just need HUD messages and what nots.
+
 ## #162, #163, #164
 
 Found some bugs in the room search system, patched those up and I think I have
