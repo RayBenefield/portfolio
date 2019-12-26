@@ -1,5 +1,13 @@
 # Worklog
 
+## #151, #152, #153, #154, #155, #156
+
+Started a whole new aesthetic for Risk so we can get Risk published, the
+gameplay is actually solid and I just need it to look good now. I'm going with
+an aztec style indoor stadium with vines and pillars in the middle. I think this
+should work out really well moving forward. The 6 sessions I pulled off resulted
+in quite an awesome looking place.
+
 ## #149, #150
 
 Spent a couple sessions just creating new overlays for every single gametype
