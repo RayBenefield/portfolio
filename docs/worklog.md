@@ -1,5 +1,16 @@
 # Worklog
 
+## #157, #158
+
+Started working on a revamped system for Forever Fights. I am setting up lobbies
+to be explicitly joinable from the front of the lobby. Also I want people to be
+able to manually create lobbies when they walk up to an available room. This
+will result in more channels used, so less available rooms overall. So less
+rooms means not everyone can fit in when there are 16 people. So I would like to
+implement an infinite matchmaking search that will keep scrolling until a lobby
+becomes available. Right now I'm just making the system with 3 lobbies to see
+how many channels it is going to take per lobby.
+
 ## #151, #152, #153, #154, #155, #156
 
 Started a whole new aesthetic for Risk so we can get Risk published, the
