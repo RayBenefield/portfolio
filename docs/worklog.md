@@ -1,5 +1,14 @@
 # Worklog
 
+## #166, #167, #168
+
+Took some time, but with some great help from GEB, Tubby, Cookie, and Royal I
+was able to get the Forever MM system working with a simple Pickaxe proof of
+concept. The elimination managers weren't working, but I figured out why
+(something I ran into before). And now it works like a charm... it breaks every
+once in a while, but otherwise it is SUPER consistent and I'm excited to use
+this system for future 1v1 gametypes.
+
 ## #165
 
 Finished up the bases and the roof and the vines and the bushes for the new
