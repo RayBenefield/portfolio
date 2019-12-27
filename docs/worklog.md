@@ -1,5 +1,13 @@
 # Worklog
 
+## #169, #170, #171, #172, #173, #174
+
+Spent all morning upgrading the Forever Melee system to support 5 lobbies. I've
+think I've fully done it, plus added some nice visual systems to show when a
+lobby is open or closed from the outside and how to join or create a lobby. I'm
+excited about the little features and it should be a lot of fun to test today.
+Then I can start working on Forever Fights.
+
 ## #166, #167, #168
 
 Took some time, but with some great help from GEB, Tubby, Cookie, and Royal I
