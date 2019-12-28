@@ -1,5 +1,15 @@
 # Worklog
 
+## #179, #180, #181, #182, #183, #184
+
+Repurposed Forever Melee into Forever Fights which is a box fight version with
+matchmaking. I've enclosed the entire map, setup a layout, created all the
+arenas, updated the barriers, mutator zones, and timers, and also added a buffer
+barrier on the outside. I also utilized the last 5 channels in order to create a
+cleanup phase after a box fight so C4 can be used to cleanup before making the
+arena available again. So now it is ready for testing, the aesthetics for
+publishing.
+
 ## #175, #176, #177, #178
 
 Fully decked out the aesthetics for the Forever Melee map and got it completely
