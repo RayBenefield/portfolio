@@ -1,5 +1,11 @@
 # Worklog
 
+## #175, #176, #177, #178
+
+Fully decked out the aesthetics for the Forever Melee map and got it completely
+published. This includes walls, and encompassing the matchmaking system and
+decorating the outside of the boxes.
+
 ## #169, #170, #171, #172, #173, #174
 
 Spent all morning upgrading the Forever Melee system to support 5 lobbies. I've
