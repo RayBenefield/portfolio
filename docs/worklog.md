@@ -1,5 +1,10 @@
 # Worklog
 
+## #187, #188, #189
+
+Spent three sessions making Forever Fights pretty and polished. It is now fully
+published and ready to see the public.
+
 ## #185, #186
 
 So I just came up with an insane idea... an idea I had YEARS ago for a game,
