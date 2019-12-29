@@ -1,5 +1,17 @@
 # Worklog
 
+## #185, #186
+
+So I just came up with an insane idea... an idea I had YEARS ago for a game,
+that I just realized I can actually build in Fortnite. This could be a crazy
+crazy game. A very long game of planning and deception and sneakyness... it
+could create the most insanely fun and surprising gameplay while also being
+tactical and deliberate. It's also a long duration game where you have to invest
+a lot of time into it. And it uses mechanics not really used in any other games
+that I've seen. Makes shadow bombs a staple item. Perhaps could make use of a
+prop gun as well. I'm kind of excited and it requires very little aesthetics on
+my part as well. This could be an awesome game.
+
 ## #179, #180, #181, #182, #183, #184
 
 Repurposed Forever Melee into Forever Fights which is a box fight version with
