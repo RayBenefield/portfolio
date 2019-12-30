@@ -1,5 +1,11 @@
 # Worklog
 
+## #195
+
+Found the combination of settings needed to fix the no build bug for Forever
+Fights. Also updated the blockers on Stormbreaker to not block weapon fire. I
+also fixed the matchmaking bug in Forever Melee.
+
 ## #192, #193, #194
 
 Spent three sessions just cleaning up the showcase area for Forever Fights. Also
