@@ -1,5 +1,11 @@
 # Worklog
 
+## #190, #191
+
+Started to setup the initial scripting systems needed for the new take on Covet.
+Had to play with quest trackers and item granters to create the income system
+for it.
+
 ## #187, #188, #189
 
 Spent three sessions making Forever Fights pretty and polished. It is now fully
