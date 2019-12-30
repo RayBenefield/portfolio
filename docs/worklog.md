@@ -1,5 +1,12 @@
 # Worklog
 
+## #192, #193, #194
+
+Spent three sessions just cleaning up the showcase area for Forever Fights. Also
+attempted to fix the no build bug by adding new mutator zones for joining
+players. Hopefully it is enough to get things working well. Otherwise I will
+just cry over and over again.
+
 ## #190, #191
 
 Started to setup the initial scripting systems needed for the new take on Covet.
