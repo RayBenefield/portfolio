@@ -1,5 +1,17 @@
 # Worklog
 
+## #199, #200, #201
+
+Explored a few things like full size of the plot of land as well as how to cover
+the whole plot and how to handle the offering statue. I think just leaving it
+open in the center is best and hope that players don't screw up their path to
+the offering statue. I also figured out what size the cornfields need to be to
+cover a whole square while also getting broken appropriately (a wall breaks both
+touching squares every time). Based on basic calculations just the cornfields
+alone will result in 35K memory. Luckily this map isn't too memory intensive in
+and of itself. Didn't get to much scripting, but all this exploration was
+helpful for the future.
+
 ## #197, #198
 
 Spent a whole hour just planning out the potential drop locations of all of the
