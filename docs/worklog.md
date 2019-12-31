@@ -1,5 +1,13 @@
 # Worklog
 
+## #196
+
+Spent one session yesterday cleaning up Boombox a bit for publishing. It was
+already playable, just needed to get cleaned up a bit mechanics wise. Like
+removing the speed boosts and what not. I got rid of the outside aesthetics for
+now. Perhaps I'll rebuild and polish it in the future. But on to new projects...
+like the new Covet. :D
+
 ## #195
 
 Found the combination of settings needed to fix the no build bug for Forever
