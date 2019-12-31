@@ -1,5 +1,14 @@
 # Worklog
 
+## #202, #203, #204, #205, #206
+
+Worked fully on the scripting system that manages the Jewel spawning throughout
+the game. And have it fully prepared for copying to each plot now. It required
+20 Jewel locations in order to get a nice spread of locations on a plot. And
+that equated to 4 different income levels. Now I need to place all of the jewel
+spawners on every plot of land and create the portals and team counter and
+timers properly. But I could be done in a couple of sessions.
+
 ## #199, #200, #201
 
 Explored a few things like full size of the plot of land as well as how to cover
