@@ -1,5 +1,12 @@
 # Worklog
 
+## #197, #198
+
+Spent a whole hour just planning out the potential drop locations of all of the
+jewels on the map. It looks like the end house is expected to be around 19x19 at
+minimum to cover all the jewels, but this is like LONG game material. So who
+knows how often it would reach a 19x19 square.
+
 ## #196
 
 Spent one session yesterday cleaning up Boombox a bit for publishing. It was
