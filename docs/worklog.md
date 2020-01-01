@@ -1,5 +1,10 @@
 # Worklog
 
+## #209, #210
+
+Fixed a bug that would not re-roll the jewel placement and just generally tested
+and verified that everything was working properly.
+
 ## #207, #208
 
 Copy and pasted all of the Jewel spawners to all 16 player lots and made sure
