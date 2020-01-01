@@ -1,5 +1,10 @@
 # Worklog
 
+## #207, #208
+
+Copy and pasted all of the Jewel spawners to all 16 player lots and made sure
+that we didn't go over any receiver limitations (60 receivers per channel).
+
 ## #202, #203, #204, #205, #206
 
 Worked fully on the scripting system that manages the Jewel spawning throughout
