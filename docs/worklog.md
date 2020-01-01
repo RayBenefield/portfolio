@@ -1,5 +1,13 @@
 # Worklog
 
+## #211, #212, #213, #214
+
+Spent 4 sessions just screwing around with the look of the plots of land for
+Covet. I still have a lot to do to get it working, but I think it is quite close
+really. I need to create the hub and the portals and the ability to exit as well
+as name all the plots of land. Lots of little details need to be set up to get
+it working, but I have the bare bones in place so far.
+
 ## #209, #210
 
 Fixed a bug that would not re-roll the jewel placement and just generally tested
