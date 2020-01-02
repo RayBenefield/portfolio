@@ -1,5 +1,12 @@
 # Worklog
 
+## #215, #216, #217, #218, #219, #220, #221, #222
+
+I drained myself on getting these last details together for 8 straight sessions.
+I need more breaks in between. I spent the time getting the teleporters working,
+the blockers for the minimap, the classes, the new actual income, etc. Sooo much
+was done, yet I still have so much to do.
+
 ## #211, #212, #213, #214
 
 Spent 4 sessions just screwing around with the look of the plots of land for
