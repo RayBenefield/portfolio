@@ -1,5 +1,16 @@
 # Worklog
 
+## #225
+
+Finally fixed all of the floors properly. You can now build a floor on every
+square as expected. You also can't build underneath the cliffs any more. Next
+thing to tackle is to reduce the number of jewel spawn locations. We are going
+to drop it from 20 to 16. This is going to take quite a bit of work, probably
+around 2 hours by itself. A session just to find the new locations, and then 2-3
+just to replace all of them properly. Once those spawns are gone, then I'll have
+8 free scripting channels to be able to handle class changing for offerings
+which will allow home owners to pickup items on their land.
+
 ## #223, #224
 
 Alright going to stop to take a breath every couple sessions to be more
