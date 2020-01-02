@@ -1,5 +1,11 @@
 # Worklog
 
+## #230
+
+Currently playing around with resources, guns, and what not to make sure you
+don't have items at the wrong time and can't exploit the system. Like having a
+gun while you are a thief, or losing resources when you become a thief.
+
 ## #229
 
 Finished up fixing the places that were all broken on each estate. Now exploring
