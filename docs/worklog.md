@@ -1,5 +1,16 @@
 # Worklog
 
+## #223, #224
+
+Alright going to stop to take a breath every couple sessions to be more
+efficient with my brain. I finally found the problem with the flooring. The
+grass tile I was using was counting as a tile rather than a prop, no matter what
+size or placement. So it was blocking floor building. I replaced it with a
+different grass tile and it should work out better. I also lined the edges with
+the original tile to actually block building on those tiles. I just deleted all
+the flooring for every single estate, now to actually place the replacement
+florring.
+
 ## #215, #216, #217, #218, #219, #220, #221, #222
 
 I drained myself on getting these last details together for 8 straight sessions.
