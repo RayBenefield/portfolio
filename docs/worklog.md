@@ -1,5 +1,14 @@
 # Worklog
 
+## #226
+
+Alright with some adjustments I think that the new jewel placement should be
+great moving forward. Next few sessions I'll work on duplicating it to every
+plot, which will be kind of difficult since they are all on different channels
+for disabling. Should be its own kind of fun. I also had an idea to have gold
+spawners that drop stacks of say 30 gold or so on every property so in down time
+you can go to various islands and farm gold that respawn after every offering.
+
 ## #225
 
 Finally fixed all of the floors properly. You can now build a floor on every
