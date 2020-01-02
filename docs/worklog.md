@@ -1,5 +1,10 @@
 # Worklog
 
+## #229
+
+Finished up fixing the places that were all broken on each estate. Now exploring
+the building vs pickup stuff that is needed for the actual game.
+
 ## #227, #228
 
 Just replaced all of the jewel spawners as well as went through to test all of
