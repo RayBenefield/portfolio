@@ -1,5 +1,11 @@
 # Worklog
 
+## #227, #228
+
+Just replaced all of the jewel spawners as well as went through to test all of
+the estates... turns out there are 3 that need minor fixes, then I'll work on
+the offering class switching for picking up items and what not.
+
 ## #226
 
 Alright with some adjustments I think that the new jewel placement should be
