@@ -1,5 +1,13 @@
 # Worklog
 
+## #231, #232
+
+So I finally figured out all the things that need to happen to make Covet work
+fully with item pickup vs no item pickup and building vs not building. All the
+pieces are in place on Diamond... now I just have to replicate it onto the other
+15 estates... which will take too much time before the stream. Guess I won't be
+able to finish it yet.
+
 ## #230
 
 Currently playing around with resources, guns, and what not to make sure you
