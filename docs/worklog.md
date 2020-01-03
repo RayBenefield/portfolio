@@ -1,5 +1,10 @@
 # Worklog
 
+## #241, #242, #243, #244
+
+Finished up all the last details which included setting up the vending machines,
+verifying that the spawns were working and so on and so forth.
+
 ## #238, #239, #240
 
 Just spent three sessions finishing up the last of the team based stuff. Had to
