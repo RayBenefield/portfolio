@@ -1,5 +1,14 @@
 # Worklog
 
+## #233, #234
+
+Was able to work on copying the final mechanisms to make Covet work all the way
+through. It took 2 sessions on stream, but things should technically work if
+nothing was bugged. Problem here is that the mutator zones are buggy as all hell
+right now, so I'm going to replace them with just doing class changes. The last
+work that needs to be done is detecting when a team spawns into the game and
+enabling their teleporter and creating the entire marketplace.
+
 ## #231, #232
 
 So I finally figured out all the things that need to happen to make Covet work
