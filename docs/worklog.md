@@ -1,5 +1,12 @@
 # Worklog
 
+## #238, #239, #240
+
+Just spent three sessions finishing up the last of the team based stuff. Had to
+setup the attribute triggers, the team settings devices with names and colors,
+as well as making sure the portals only spawn when the team is in the game. Next
+thing to do is work on scoring and teaching.
+
 ## #235, #236, #237
 
 Did some quick changes so the building system is only dependent on classes
