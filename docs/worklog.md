@@ -1,5 +1,14 @@
 # Worklog
 
+## #235, #236, #237
+
+Did some quick changes so the building system is only dependent on classes
+instead of mutator zones. Everything should be working proplery from that
+perspective. Then I spent 2 sessions setting up a decent looking hub to work
+with for the future. It is rounded, and I'm going to use it to create a
+marketplace for the thieves. Next I have to create the spawnpads to make players
+spawn in the game as well as HUD messages to explain the game.
+
 ## #233, #234
 
 Was able to work on copying the final mechanisms to make Covet work all the way
