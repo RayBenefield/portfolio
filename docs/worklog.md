@@ -1,5 +1,11 @@
 # Worklog
 
+## #245
+
+Updated things for balance. Removed the broken mutator zone for no weapon usage
+in the hub. Updated the teleporter system so you leave by the portal of the
+estate you left. And added a few experimental things to buy.
+
 ## #241, #242, #243, #244
 
 Finished up all the last details which included setting up the vending machines,
