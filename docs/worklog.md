@@ -1,5 +1,11 @@
 # Worklog
 
+## #249
+
+Worked to remove an entire set of 16 channels based around Flag dropping. This
+should open up possibilities for more features. Next is convert all jewels into
+flag spawners and update the capture points.
+
 ## #246, #247, #248
 
 Explored some bug fixing opportunities. I figured out how HUD messages work for
