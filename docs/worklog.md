@@ -1,5 +1,19 @@
 # Worklog
 
+## #246, #247, #248
+
+Explored some bug fixing opportunities. I figured out how HUD messages work for
+the most part so I setup the HOME message to show up every time the offering
+starts. I also setup team tracking to use a damage zone, this will save on
+having to have everyone go back to hub every single time. I also discovered that
+Flags do not have the same pickup bug for a single slot as Jewels do, so to
+avoid that bug I can replace all jewels with a flag, which will take quite a
+while to do. I also spent some time thinking about UX and how to teach the game,
+I think I'm close to a sweet spot that will work better. I delayed the first
+offering for a minute so people can experience the inability to pickup Jewels at
+their house and also spend time building. If I use damage zone properly, I may
+be able to remove the need for some channels. I'll have to think on things.
+
 ## #245
 
 Updated things for balance. Removed the broken mutator zone for no weapon usage
