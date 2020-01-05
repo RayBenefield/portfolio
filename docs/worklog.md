@@ -1,5 +1,16 @@
 # Worklog
 
+## #250, #251
+
+Worked on the flag spawners and realized that the flag spawners decided not to
+work, the problem being that flags do not drop out of capture item spawners,
+which sucks, but I get it. I also technically found a solution to my bugged
+jewel system where if you pick it up with a boombow it breaks your inventory. I
+setup an item granter that is delayed by 1 second, but gives you a single
+shotgun shell. This refrehes the inventory and reveals the jewel. But after last
+night's sub games, I've decided to just expand the inventory to 2 slots to
+counter some common strategies that exist.
+
 ## #249
 
 Worked to remove an entire set of 16 channels based around Flag dropping. This
