@@ -1,5 +1,29 @@
 # Worklog
 
+## #252
+
+Spent a session exploring potential ideas with 2 slotted inventories and it
+looks like it won't be too bad. If someone has a grappler with their Jewel and
+they go home, it will remove the grappler from their inventory. Since a common
+technique is the reverse pyramid, the counter to that is to give people access
+to a Grappler at 500 gold. Which is about what it takes to build a decent
+inverse pyramid. Easy counter. This will force home owners to build confusing
+houses instead to get their Jewels. I'm also going to be removing damaging traps
+as they are not symmetrical functionally to thieves and estate owners.
+
+Next thing I have to counter is people being able to block off the exits. To
+counter that I actually have to build the entire map in the sky and not allow
+building around the exits. You can still chain a wall over there, but in the
+future I will have access to working no build zones. Disallowing building around
+the statue will also prevent people from blocking themselves off from the statue
+early on easily. In addition I'm going to create a charity vending machine where
+every activiation is 1 metal so you have to sit their for a while to collect
+enough building resources to get back into your base if you make it hard to get
+into. All good ideas, but I think I need to take a break from this project for
+now and let it simmer. I've been at it for a week so now I want to focus on
+publishing other things and polishing already published stuff. And working on
+another idea... probably Voltron.
+
 ## #250, #251
 
 Worked on the flag spawners and realized that the flag spawners decided not to
