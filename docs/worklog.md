@@ -1,5 +1,12 @@
 # Worklog
 
+## #254, #255, #256
+
+Went through and figured out a good distance for perception triggers so I could
+replace the current ones with an optimal spacing to reduce the trigger count. It
+is down from 100 to 64. Now it should be much better. I also got a better
+screenshot for it.
+
 ## #253
 
 Spent some time cleaning up Stormbreaker. Fixed the darn broken barrier that
