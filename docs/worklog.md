@@ -1,5 +1,11 @@
 # Worklog
 
+## #253
+
+Spent some time cleaning up Stormbreaker. Fixed the darn broken barrier that
+keeps eluding me. Also adjusted the pro jump to only glide through 2 sections
+instead of 3. And removed a bunch of build to prop pieces.
+
 ## #252
 
 Spent a session exploring potential ideas with 2 slotted inventories and it
