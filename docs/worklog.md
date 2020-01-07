@@ -1,5 +1,12 @@
 # Worklog
 
+## #260
+
+Started out the writing for my very first Creative Lesson on Innovation. Got off
+to a good start, feeling like it is a little bloated. I'm ok with that since
+this is my return to the venture of writing. I'll actually take time to edit it
+better this time around. Gonna take a short break so my mind can simmer.
+
 ## #259
 
 I'm starting a whole new design series similar to my old Halo Forge ones. This
