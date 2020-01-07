@@ -34,15 +34,15 @@ week._
 
 # Innovation
 
-We'll start with what is innovation and why is it the first lesson? Quick
+We'll start with what is **Innovation** and why is it the first lesson? Quick
 dictionary definition: `a new method, idea, product, etc.`. Simply something
-that hasn't been done before. But innovation isn't just one large thing, but can
-range in scale and amount. Sometimes innovation isn't just in singular items,
+that hasn't been done before. But **Innovation** isn't just one large thing, but can
+range in scale and amount. Sometimes **Innovation** isn't just in singular items,
 but in the synergy of multiple items that are commonly seen in a scene. For
 example buttered toast and coffee are normal individually, but dipping your
 buttered toast in your coffee is not. Innovation is a driving factor of evolving
 an industry, intentional or not. This is why it is the first. The backbone of a
-community tends to thrive off of new innovations in the field and leads to
+community tends to thrive off of new **Innovation**s in the field and leads to
 growth and new fads. Are you sick of seeing the same thing happening week to
 week? Innovation is the solution until something sticks. Where does this start?
 With you making the active decision to go beyond and explore the outside of the
@@ -50,7 +50,7 @@ box that is trending and stylistic for the times.
 
 ## Stand Out
 
-The most immediate value that you get out of focusing on innovation is standing
+The most immediate value that you get out of focusing on **Innovation** is standing
 out. If everyone does X, then you doing Y is going to immediately draw attention
 to yourself. Sometimes that attention is negative and heavily critiqued, but
 attention nonetheless, and that's the start and the focus here. Learn to get
@@ -59,13 +59,13 @@ theoretically. If you even think something is different, just DO IT. If you get
 feedback that it isn't really that different, that is still valuable information
 for you. USE THAT. Don't just sulk and defend that you are different and
 standout. If your target audience doesn't agree, use that information. Doesn't
-mean your innovation was not innovative; as in that case it did in fact stir up
+mean your **Innovation** was not innovative; as in that case it did in fact stir up
 conversation. At that point, then you know your idea wasn't innovative ENOUGH.
 Even this measurement is valuable.
 
 ## Explore Variations
 
-Alright so let's be real here, true innovation is sooo difficult. Inspiration is
+Alright so let's be real here, true **Innovation** is sooo difficult. Inspiration is
 where your mind will spend most of its time. WHICH IS OK! There's nothing wrong
 in looking at something and thinking "I wonder what would happen if I do this
 instead". So when in doubt, look for your favorite stuff in the community and
@@ -80,15 +80,15 @@ courteous to your fellow creators and attribute your inspiration accordingly.
 
 ## The Many Axis of Innovation
 
-When considering innovation, remember to open your mind. If you are more of an
+When considering **Innovation**, remember to open your mind. If you are more of an
 artist, then perhaps you are only considering innovating on the visuals of maps.
 If you are more of a systems designer, perhaps you are only considering
 innovating game mechanics. Innovation doesn't happen on a single axis, there are
-many areas that need innovation. Even the meta of content creation can involve
-innovation. Underground marketing is an example. Perhaps there is a common way
+many areas that need **Innovation**. Even the meta of content creation can involve
+**Innovation**. Underground marketing is an example. Perhaps there is a common way
 to share a creation either through a code or a download link. Maybe instead of
 doing it the normal way you go viral by only word of mouth. The music industry
 has a few of these with secret gigs. Don't restrict yourself to one axis of
-innovation. Think art, think mechanics, think marketing, think publishing, think
-networking, think story, think EVERYTHING. Innovate on innovation. It's a thing,
+**Innovation**. Think art, think mechanics, think marketing, think publishing, think
+networking, think story, think EVERYTHING. Innovate on **Innovation**. It's a thing,
 I promise.
