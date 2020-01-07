@@ -1,5 +1,11 @@
 # Worklog
 
+## #261
+
+Finished writing my first article on Innovation and did a single read out review
+of it. I'm going to take a quick break and then do one more read out loud review
+and then work on publishing it to the appropriate outlets.
+
 ## #260
 
 Started out the writing for my very first Creative Lesson on Innovation. Got off
