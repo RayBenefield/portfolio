@@ -1,4 +1,4 @@
-*Today I'm starting a new habit for the decade. I want to write a series on
+_Today I'm starting a new habit for the decade. I want to write a series on
 game/level design, content creation, and workflow productivity. This isn't my
 first time doing this. I created a series of 52 lessons for the Halo Forge
 community. These lessons aren't intended to be full walkthroughs or deep dives
@@ -8,27 +8,29 @@ sometimes there are topics that seem like common sense, but in reality not
 everyone knows them. So if you see topics that are simple and you already knew,
 then consider that not everyone is immediately aware. And the beauty of bringing
 it to light is looking at it and REALLY considering it, not just letting it sit
-in the back of your mind. Bring it forward to discuss with others.
+in the back of your mind. Bring it forward to discuss with others._
 
-Today I bring you the first. The topic of Innovation I think is one of the most
-important, because it is common to see the success of a set of standard flair
-styles and then trying to directly copy just to try to grab some recognition for
-yourself. This ends up in a near endless sea of more of the same, rather than
-evolution in the community. Started with turtle wars to deathruns to build
-fights to zone wars to box fights. There's nothing wrong with joining in on
-trends for many reasons, but before you do take a moment and consider your
-option of being a pioneer versus doing more of the same... not just for
-yourself, but also for the growing community.
+_Today I bring you the first. The topic of Innovation is one of the most
+important, because it is common to see the success of a trending content style
+and then attempt to directly copy just to grow with the trend. This ends up in
+a near endless sea of more of the same, rather than evolution in the community.
+This is not a 100% accurate, but as an example let's say Fortnite Creative went
+from turtle wars to deathruns to build fights to zone wars to box fights.
+There's nothing wrong with joining in on trends for many reasons, but before you
+do take a moment and consider your option of being a pioneer versus doing more
+of the same... not just for yourself, but also for the growing community._
 
-NOTE: These sections in italics are written with the context of today in mind
+**_NOTE:_** _These sections in italics are written with the context of today in mind
 and this will be the case for every future lesson (also today's is a bit longer
 as it is the first, so expect just one paragraph moving forward). But the goal
 is everything after these sections are written to be as timeless as possible.
 But nobody is perfect. This series isn't meant to be law, it is my own
 perspective after focusing on design for over the past decade. Feel free to take
-it with a grain of salt. All I can hope is that it helps even one person, and
-I'll leave it at that. Hope you enjoy today's lesson and I'll see y'all next
-week. <3*
+it with a grain of salt. All I can hope for is that this helps even one person,
+and I'll leave it at that. Hope you enjoy today's lesson and I'll see y'all next
+week._
+
+---
 
 # Innovation
 
@@ -37,7 +39,7 @@ dictionary definition: `a new method, idea, product, etc.`. Simply something
 that hasn't been done before. But innovation isn't just one large thing, but can
 range in scale and amount. Sometimes innovation isn't just in singular items,
 but in the synergy of multiple items that are commonly seen in a scene. For
-example buttered toast and coffee is normal separately, but dipping your
+example buttered toast and coffee are normal individually, but dipping your
 buttered toast in your coffee is not. Innovation is a driving factor of evolving
 an industry, intentional or not. This is why it is the first. The backbone of a
 community tends to thrive off of new innovations in the field and leads to
@@ -57,9 +59,9 @@ theoretically. If you even think something is different, just DO IT. If you get
 feedback that it isn't really that different, that is still valuable information
 for you. USE THAT. Don't just sulk and defend that you are different and
 standout. If your target audience doesn't agree, use that information. Doesn't
-mean your innovation was not innovated; as it did in fact stir up conversation.
-At that point, then you know your idea wasn't innovative ENOUGH. Even this
-measurement is valuable.
+mean your innovation was not innovative; as in that case it did in fact stir up
+conversation. At that point, then you know your idea wasn't innovative ENOUGH.
+Even this measurement is valuable.
 
 ## Explore Variations
 
