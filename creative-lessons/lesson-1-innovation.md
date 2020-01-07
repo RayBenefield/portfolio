@@ -78,7 +78,7 @@ the first to do something. History shows us that there is such thing as doing
 something before its time. There is no shame in inspiration. Just be sure to be
 courteous to your fellow creators and attribute your inspiration accordingly.
 
-## The Many Axis of Innovation
+## The Many Axes of Innovation
 
 When considering **Innovation**, remember to open your mind. If you are more of an
 artist, then perhaps you are only considering innovating on the visuals of maps.
