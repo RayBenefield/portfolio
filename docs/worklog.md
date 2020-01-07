@@ -1,5 +1,12 @@
 # Worklog
 
+## #259
+
+I'm starting a whole new design series similar to my old Halo Forge ones. This
+time focused on the Fortnite Creative community. I just spent a session
+reacquainting myself with my old articles. I'm hoping these will serve to be
+helpful for the community.
+
 ## #257, #258
 
 Updated Forever Fights and Melee with the necessary updates I've been wanting. A
