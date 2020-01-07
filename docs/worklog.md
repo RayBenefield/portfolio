@@ -1,5 +1,13 @@
 # Worklog
 
+## #257, #258
+
+Updated Forever Fights and Melee with the necessary updates I've been wanting. A
+glow while you matchmake, no glider redeploy, scoring, increased cleanup time,
+leave button after cleanup, and additional create/join lobby and matchmaking
+buttons. Both are now re-published and I think it is a good time to start
+exploring my old Forge Lessons and planning for my Creative Lessons.
+
 ## #254, #255, #256
 
 Went through and figured out a good distance for perception triggers so I could
