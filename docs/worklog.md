@@ -1,5 +1,12 @@
 # Worklog
 
+## #262
+
+Updated the inventory for Risk to include 3 chug splashes instead of minis. This
+will encourage more team gameplay moving forward. I've also updated the
+inventory system to use a perception trigger and an item granter to give people
+their inventory more reliably.
+
 ## #261
 
 Finished writing my first article on Innovation and did a single read out review
