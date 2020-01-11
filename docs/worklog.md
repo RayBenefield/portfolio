@@ -1,5 +1,11 @@
 # Worklog
 
+## #263, #264, #265, #266, #267, #268, #269
+
+Setup the initial prototype and all the switching required for a new Fashion
+Show gametype where the streamer has control over who security guards are and
+judging whether or not people move on to the next round.
+
 ## #262
 
 Updated the inventory for Risk to include 3 chug splashes instead of minis. This
