@@ -1,5 +1,12 @@
 # Worklog
 
+## #270, #271, #272, #273
+
+Spent 4 sessions getting the video together for Creative Lesson 1 that was put
+out last week. The first video took a while as I worked on setting up a nice
+template to do this more in the future. Next time should take less than an hour,
+which will be really nice.
+
 ## #263, #264, #265, #266, #267, #268, #269
 
 Setup the initial prototype and all the switching required for a new Fashion
