@@ -1,5 +1,11 @@
 # Worklog
 
+## #274, #275
+
+Two sessions to spit out a full lesson for the Creative Lessons. It all went
+really well actually. Next thing to do is work on the publishing on Reddit for
+others to enjoy. Gotta worry about links to the past article.
+
 ## #270, #271, #272, #273
 
 Spent 4 sessions getting the video together for Creative Lesson 1 that was put
