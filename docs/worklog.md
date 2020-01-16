@@ -1,5 +1,12 @@
 # Worklog
 
+## #276, #277, #278
+
+Finally taking time to paint over the Gunrunners map... I started with the white
+corner. So each corner feels like it will take 2-3 sessions. So this whole
+painting could take about 5 hours at most. Just need to push through and get it
+done.
+
 ## #274, #275
 
 Two sessions to spit out a full lesson for the Creative Lessons. It all went
