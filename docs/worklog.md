@@ -1,5 +1,10 @@
 # Worklog
 
+## #279, #280
+
+Had to test a bunch of mechanics and devices and settings and stuff for my new
+idea Battle of the Architects. Should be a good one. I'll explain later.
+
 ## #276, #277, #278
 
 Finally taking time to paint over the Gunrunners map... I started with the white
