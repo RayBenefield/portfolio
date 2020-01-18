@@ -1,5 +1,22 @@
 # Worklog
 
+## #281, #282, #283, #284, #285, #286, #287, #288
+
+Spent many many sessions, too much, trying to get the dynamic quest system
+working with trackers for Battle of the Architects. Ultimately I learned that
+players that do not share your quest cannot affect your quest. So a team cannot
+increment the target of the enemy team. SO instead I'm going to have to
+compensate with a different and much simpler system honestly.
+
+Since I didn't talk about the system in the last entry, this is the game mode
+I'm making:
+
+Phase 1️⃣ - Build a permanent Fortress for your team
+
+Phase 2️⃣ - Hide Jewels throughout your Fortress
+
+Phase 3️⃣ - Protect your jewels, infiltrate the enemy Fortress, take ALL of their Jewels or more than they take from you
+
 ## #279, #280
 
 Had to test a bunch of mechanics and devices and settings and stuff for my new
