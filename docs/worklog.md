@@ -1,5 +1,13 @@
 # Worklog
 
+## #289, #290, #291
+
+Changed the Jewel system for BotA, setup a whole capture area system in the
+middle. Also updated the spawn system to dynamically look at the Jewels when it
+is time for the Setup phase. And I still need a spawn system that will allow
+people to drop out of the sky whenever they respawn. Should be awesome when it
+is ready. Oh and I put it in the middle of a large gulch.
+
 ## #281, #282, #283, #284, #285, #286, #287, #288
 
 Spent many many sessions, too much, trying to get the dynamic quest system
