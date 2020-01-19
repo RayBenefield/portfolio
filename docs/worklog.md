@@ -1,5 +1,11 @@
 # Worklog
 
+## #292, #293
+
+Finished the spawning and the classes for BotA. Includes spawning in the sky on
+their base... also took the time to setup new mutator zones to stop building all
+the way to the walls, which should prevent a couple exploits.
+
 ## #289, #290, #291
 
 Changed the Jewel system for BotA, setup a whole capture area system in the
