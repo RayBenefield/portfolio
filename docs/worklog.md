@@ -1,5 +1,16 @@
 # Worklog
 
+## #297, #298
+
+Just a tad closer... had to explore combinations of joining while searching for
+a lobby or dying at the same time and just lots of weird combinations to test. I
+have one more minor detail to setup which is if you are in queue then you get a
+red coloring and when you join then you lose that coloring. I also need to add a
+HUD message for when you are next in line. And I need to start planning the
+start match and what not. I also want to allow players to create a lobby while
+in matchmaking, but it should also stop your queue search so you don't join a
+lobby while in another lobby.
+
 ## #294, #295, #296
 
 Got most of the system in place now. I even made the device kind of pretty. But
