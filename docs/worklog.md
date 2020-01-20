@@ -1,5 +1,13 @@
 # Worklog
 
+## #294, #295, #296
+
+Got most of the system in place now. I even made the device kind of pretty. But
+the create lobby system seems to be working alright and I think there is a
+couple bugs with the join lobby system. I really need to just sit down and
+verify a few things and test it over and over again and also drag some people in
+to test it with me.
+
 ## #292, #293
 
 Finished the spawning and the classes for BotA. Includes spawning in the sky on
