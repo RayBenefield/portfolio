@@ -1,5 +1,11 @@
 # Worklog
 
+## #299, #300, #301
+
+The latest Creative Lesson took FOREVER compared to the others. It really only
+should take me two sessions, but Quantity over Quality was a very big topic to
+cover. Next week I'll probably cover Discipline over Motivation.
+
 ## #297, #298
 
 Just a tad closer... had to explore combinations of joining while searching for
