@@ -1,5 +1,12 @@
 # Worklog
 
+## #304, #305, #306
+
+Custom designed a nice little housing for my matchmaking system. I still need to
+design a custom queue system, but for now this works perfect and gives me some
+motivation moving forward. Next thing I need to do is make sure the queue system
+works for a bunch of people.
+
 ## #302, #303
 
 Just had a MASSIVE win. I redesigned my queue based system to only use a single
