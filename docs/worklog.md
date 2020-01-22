@@ -1,5 +1,13 @@
 # Worklog
 
+## #302, #303
+
+Just had a MASSIVE win. I redesigned my queue based system to only use a single
+channel per player rather than two channels per player. Which opens up my system
+to have 16 more channels than before. This will allow me to have a full 8
+lobbies as I originally wanted rather than 5... this means all 16 players can
+play at the same time now. LET'S GO!!!
+
 ## #299, #300, #301
 
 The latest Creative Lesson took FOREVER compared to the others. It really only
