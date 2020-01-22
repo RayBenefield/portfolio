@@ -1,5 +1,11 @@
 # Worklog
 
+## #307
+
+Created a queue for each of the 16 players and re-organized things to prepare
+for a huge group of Pickaxe fighting tests. Hopefully this goes smoothly when I
+do test. Still quite a bit to do.
+
 ## #304, #305, #306
 
 Custom designed a nice little housing for my matchmaking system. I still need to
