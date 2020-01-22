@@ -1,5 +1,11 @@
 # Worklog
 
+## #308, #309
+
+Spent time exploring what an aesthetic for people in the queue will be like. I
+was hoping to use customizable lights, but the receivers don't respect the team
+filter.
+
 ## #307
 
 Created a queue for each of the 16 players and re-organized things to prepare
