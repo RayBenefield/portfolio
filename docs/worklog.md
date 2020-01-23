@@ -1,5 +1,19 @@
 # Worklog
 
+## #313, #314
+
+Trying to figure out the best way to handle assigning classes since so much is
+going on at the same time. I needed a "busy" class that prevents players from
+queueing while they are creating a lobby, or creating a lobby when they are next
+in line. But they should be able to create a lobby while in a queue and not next
+in line. There was a problem where a "busy" class was being given to a player
+that joined the lobby and I need to avoid that from happening. I also need to
+consider removing classes when a player dies or leaves a lobby. When they die,
+they need to respawn and clear their class, however I need a gate to make sure
+that the player entering the zone doesn't have a busy class because they
+shouldn't be able to clear that busy class by respawning or anything. Lots of
+little timing details I have to figure out.
+
 ## #310, #311, #312
 
 I got sucked into make pretty things and got lost in the time... I haven't eaten
