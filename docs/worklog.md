@@ -1,5 +1,12 @@
 # Worklog
 
+## #317
+
+How do we make the matchmaking mechanism look awesome. I played with rotating
+objects a ton and they look amazing. I do have to consider stacking create lobby
+and join lobby search systems together and figure out how all that will look
+going forward.
+
 ## #315, #316
 
 Built a whole new queueing system based on overlapping RNGs. This ends up being
