@@ -1,5 +1,14 @@
 # Worklog
 
+## #315, #316
+
+Built a whole new queueing system based on overlapping RNGs. This ends up being
+a lot faster and allows every player to search for an open lobby at the same
+time. It also removes a lot global channel usage and should allow me to have
+around 7 lobbies with this system. I need to remove a channel being used in the
+lobbies to cut channels for lobbies from 6 per lobby to 5 per lobby. I also need
+to create the create lobby search system.
+
 ## #313, #314
 
 Trying to figure out the best way to handle assigning classes since so much is
