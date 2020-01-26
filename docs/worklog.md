@@ -1,5 +1,14 @@
 # Worklog
 
+## #318, #319, #320, #321, #322
+
+Last multiple set of sessions I worked on the Forever matchmaking system again
+trying to create a system that worked consistently. I think I got close, but
+there is a runtime error somewhere that is double queueing players rather than
+stopping stopping them from queueing again after a room is found. I'll have to
+explore options to improve consistency at a later time. For now, this needs a
+rest.
+
 ## #317
 
 How do we make the matchmaking mechanism look awesome. I played with rotating
