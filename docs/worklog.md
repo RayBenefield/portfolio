@@ -1,5 +1,14 @@
 # Worklog
 
+## #323, #324, #325
+
+Put in some work to finish up Battle of the Architects for publishing. I
+replaced the timers with timer objectives so each phase can show up on the HUD.
+I also added a visible "cage" to show that you cannot fly through the middle. I
+added a no build zone up top to prevent people building over the rifts. I am
+planning to add a random tip system that pops up tips on the side of your screen
+as you play and I will fill those tips with stuff from the community.
+
 ## #318, #319, #320, #321, #322
 
 Last multiple set of sessions I worked on the Forever matchmaking system again
