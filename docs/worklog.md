@@ -1,5 +1,12 @@
 # Worklog
 
+## #329
+
+Started work on a new map based on a small and cramped Sewer system. Will be a
+quick gametype that is based on juggernaut from Halo with everyone in a small
+dark space and the only thing you can see is the radioctive player running
+around.
+
 ## #326, #327, #328
 
 Attempted a random tip system, but I do not like the fact that there is no word
