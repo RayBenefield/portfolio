@@ -1,5 +1,14 @@
 # Worklog
 
+## #326, #327, #328
+
+Attempted a random tip system, but I do not like the fact that there is no word
+wrap on the center right side of HUD messages. In that case I decided not to go
+with it. Instead I focused on cleaning up the map by blackening all the edges
+then added information on the map with map indicators. I also created a custom
+screenshot for the map and it was fully published yesterday. :D Very happy with
+it.
+
 ## #323, #324, #325
 
 Put in some work to finish up Battle of the Architects for publishing. I
