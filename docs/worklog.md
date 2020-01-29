@@ -1,5 +1,10 @@
 # Worklog
 
+## #330, #331
+
+Spent 2 sessions on my fourth creative lesson. Not too bad at all. It came out
+really well and is about Discipline over Motivation.
+
 ## #329
 
 Started work on a new map based on a small and cramped Sewer system. Will be a
