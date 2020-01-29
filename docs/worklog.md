@@ -1,5 +1,10 @@
 # Worklog
 
+## #332, #333
+
+Started work on a new gametype I'm dubbing Silhouettes based on the effect
+discovered by Puzzler. This one is going to be fun. I'll explain more next time.
+
 ## #330, #331
 
 Spent 2 sessions on my fourth creative lesson. Not too bad at all. It came out
