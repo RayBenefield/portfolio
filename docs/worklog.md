@@ -1,5 +1,11 @@
 # Worklog
 
+## #336, #337, #338
+
+Finished most of my Silhouette mechanics, just gotta finish up the corner
+teleporters and add the clearing wall and figure out scoring and it should be
+good to playtest.
+
 ## #334, #335
 
 Started work on the scripting to make Silhouettes work. The idea is one wall is
