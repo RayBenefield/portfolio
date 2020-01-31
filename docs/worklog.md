@@ -1,5 +1,12 @@
 # Worklog
 
+## #334, #335
+
+Started work on the scripting to make Silhouettes work. The idea is one wall is
+enabled at a time and those players must scatter and leave the wall to avoid
+being killed while players on the dark walls are shooting them with hand
+cannons or scoped revolvers or whatever I decide.
+
 ## #332, #333
 
 Started work on a new gametype I'm dubbing Silhouettes based on the effect
