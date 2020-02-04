@@ -1,5 +1,11 @@
 # Worklog
 
+## #339, #340, #341, #342
+
+Fixed up the remaining mechanics needed to make Silhouettes work. The spawns
+work as expected now and the scoring system is in place. All that's left is some
+user experience stuff to make it play well.
+
 ## #336, #337, #338
 
 Finished most of my Silhouette mechanics, just gotta finish up the corner
