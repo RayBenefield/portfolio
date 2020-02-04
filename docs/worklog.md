@@ -1,5 +1,9 @@
 # Worklog
 
+## #343, #344
+
+Wrote up the next Creative Lesson on smooth spawning on maps.
+
 ## #339, #340, #341, #342
 
 Fixed up the remaining mechanics needed to make Silhouettes work. The spawns
