@@ -1,5 +1,10 @@
 # Worklog
 
+## #345
+
+Updating the barriers on the map for the minimap so they are no longer in the
+way of visibility while working on stuff.
+
 ## #343, #344
 
 Wrote up the next Creative Lesson on smooth spawning on maps.
