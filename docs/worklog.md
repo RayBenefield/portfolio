@@ -1,5 +1,12 @@
 # Worklog
 
+## #346, #347, #348, #349, #350, #351
+
+Spent SOOO many sessions figuring out the best piece configuration to prevent
+people from building where you should not be allowed to build. Next thing that
+needs to be done is figuring out how I'm going to need to adjust the scripting
+system and my channel usage.
+
 ## #345
 
 Updating the barriers on the map for the minimap so they are no longer in the
