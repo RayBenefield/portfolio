@@ -1,5 +1,11 @@
 # Worklog
 
+## #352
+
+Made a quick new gametype code named curling for now... and hopefully it works
+out well. I just need to make some UX updates to it and then make it pretty or
+people will yell at me.
+
 ## #346, #347, #348, #349, #350, #351
 
 Spent SOOO many sessions figuring out the best piece configuration to prevent
