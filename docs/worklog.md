@@ -1,5 +1,10 @@
 # Worklog
 
+## #353, #354
+
+Silhouettes is now officially published with new messages and sound effects to
+make it more intuitive.
+
 ## #352
 
 Made a quick new gametype code named curling for now... and hopefully it works
