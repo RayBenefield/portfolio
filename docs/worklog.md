@@ -1,5 +1,12 @@
 # Worklog
 
+## #355, #356, #357, #358
+
+Started the prototype for a new house of cards gametype that needs to be built.
+It is based around players custom building their own house of cards in order to
+sit as high as possible for as long as possible. The higher a player is the more
+points they earn per second.
+
 ## #353, #354
 
 Silhouettes is now officially published with new messages and sound effects to
