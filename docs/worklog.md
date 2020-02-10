@@ -1,5 +1,12 @@
 # Worklog
 
+## #359
+
+Updated all of the minimap barriers on the new version of Covet... this is just
+the start of the new system. Rewriting the entire scripting system will
+definitely be fun. Next thing to do is resize all the zones and add the no build
+portions with the creature spawners.
+
 ## #355, #356, #357, #358
 
 Started the prototype for a new house of cards gametype that needs to be built.
