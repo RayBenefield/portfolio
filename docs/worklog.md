@@ -1,5 +1,9 @@
 # Worklog
 
+## #360
+
+Spent one session quickly putting out the new Creative Lesson.
+
 ## #359
 
 Updated all of the minimap barriers on the new version of Covet... this is just
