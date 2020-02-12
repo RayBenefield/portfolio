@@ -1,5 +1,11 @@
 # Worklog
 
+## #365
+
+Finished the outer ring of no build creature spawners for each estate... next
+thing to focus on is to work on the offering system. First the preparation zone,
+then the actual flags and stuff.
+
 ## #363, #364
 
 Setup all the teleporters to work with the new system that uses two teleporters.
