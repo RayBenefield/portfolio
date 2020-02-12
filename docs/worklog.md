@@ -1,5 +1,15 @@
 # Worklog
 
+## #363, #364
+
+Setup all the teleporters to work with the new system that uses two teleporters.
+The home one is only for the designated team and is larger than the second
+teleporter that is embedded in it. The home one instantly gives you the class
+when you enter it, the everyone else smaller teleporter just teleports you with
+no class. Hopefully it works out in the grander scheme of things. Next thing to
+focus on is getting the rest of the creature spawners on the outside and the
+preparation zones for giving owners the ability to pickup stuff.
+
 ## #361, #362
 
 Spent a lot of time removing a bunch of stuff from Covet that will not be needed
