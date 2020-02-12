@@ -1,5 +1,13 @@
 # Worklog
 
+## #361, #362
+
+Spent a lot of time removing a bunch of stuff from Covet that will not be needed
+moving forward. Still lots of things to get done, but I'm getting there. Started
+adding the creature spawners to prevent people from building on the outsides as
+well. Gotta handle the new barriers for height as well as setup the new
+teleporter system that will change you to the owner class.
+
 ## #360
 
 Spent one session quickly putting out the new Creative Lesson.
