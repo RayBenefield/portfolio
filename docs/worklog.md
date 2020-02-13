@@ -1,5 +1,12 @@
 # Worklog
 
+## #366, #367, #368
+
+Got the start of a new offering system started. Setup the new timers with new
+channels and got the first couple levels of the flag selection working now. Just
+need to duplicate and then test that. Should be an hour or two before I can
+start copying to all islands.
+
 ## #365
 
 Finished the outer ring of no build creature spawners for each estate... next
