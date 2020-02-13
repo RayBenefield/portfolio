@@ -1,5 +1,11 @@
 # Worklog
 
+## #372, #373
+
+Setup the contextual teaching system to work with team 1 consistently. Now I
+need to duplicate it for every team. Once that is done, I have to finish up the
+offering system using Jewels instead of Flags.
+
 ## #371
 
 Started work on the ordering and timing of all the teaching messages. Started
