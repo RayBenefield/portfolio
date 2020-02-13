@@ -1,5 +1,13 @@
 # Worklog
 
+## #369, #370
+
+I'm sad cuz I found that there is a bug that is keeping me from using flags for
+the new Covet, but I'll deal with just Jewels that don't drop out of the sky. I
+started working on a full blown contextual teaching system that uses triggers
+for each team that can only be triggered once. This allows each player to learn
+at their own pace based on the actions they are taking.
+
 ## #366, #367, #368
 
 Got the start of a new offering system started. Setup the new timers with new
