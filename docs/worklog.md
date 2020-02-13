@@ -1,5 +1,10 @@
 # Worklog
 
+## #371
+
+Started work on the ordering and timing of all the teaching messages. Started
+with the basic objective, the buying message, and the scoring message.
+
 ## #369, #370
 
 I'm sad cuz I found that there is a bug that is keeping me from using flags for
