@@ -1,5 +1,13 @@
 # Worklog
 
+## #374
+
+Fixed up the Jewel selection system and tested it and it seems to be working
+alright, next is to work on the final details and plan out the layout of the
+Jewels. I also still need to add transmitters for entering "other" rifts that
+are not your home so you get the tutorial message for stealing. Hopefully
+everything goes smoothly.
+
 ## #372, #373
 
 Setup the contextual teaching system to work with team 1 consistently. Now I
