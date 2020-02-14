@@ -1,5 +1,12 @@
 # Worklog
 
+## #375, #376
+
+Figured out the entire layout and duplicated it across every estate. Also setup
+the preparation zone is setup as well. Last few things that are need is a no
+build zone above the map and setup the "other" rifts to handle the tutorial
+system.
+
 ## #374
 
 Fixed up the Jewel selection system and tested it and it seems to be working
