@@ -1,5 +1,13 @@
 # Worklog
 
+## #377
+
+Setup some balance changes for Covet. Including updating metal to Wood for
+aesthetic. Removed Shadowbombs due to a bug, reduced price of Grappler to 400
+from 500. Added smoke bombs for 100. Add Impulses for 50 gold. Added Bouncers
+for 400 gold. Also reduced the amount of gold you get per Jewel to 200 from 300
+and setup starting gold to be 1000 gold instead of 600.
+
 ## #375, #376
 
 Figured out the entire layout and duplicated it across every estate. Also setup
