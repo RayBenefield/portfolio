@@ -1,5 +1,11 @@
 # Worklog
 
+## #378, #379, #380
+
+Jewels were constantly getting stuck at rifts, so I resized all of them both in
+the hub and the individual estates. I also added exit signs to all the corner
+portals. It seems like Jewels are no longer getting caught which is good.
+
 ## #377
 
 Setup some balance changes for Covet. Including updating metal to Wood for
