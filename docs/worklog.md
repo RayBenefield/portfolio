@@ -1,5 +1,13 @@
 # Worklog
 
+## #381, #382, #383
+
+Yesterday spent three sessions just designing a new Wood Dispenser that will not
+break as much as vending machines do. I'd use conditional buttons for more
+things, but I don't have that many channels right now. I also added buttons to
+escape your estate, but turns out they break your ability to pickup stuff. So
+I'm just going to disable them for now. Time to work on a new gametype.
+
 ## #378, #379, #380
 
 Jewels were constantly getting stuck at rifts, so I resized all of them both in
