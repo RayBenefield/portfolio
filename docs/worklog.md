@@ -1,5 +1,12 @@
 # Worklog
 
+## #384, #385, #386, #387, #388, #389, #390, #391, #392
+
+So I did a bunch of stuff a couple days ago to build up a new prototype based on
+the Prisoner's Dillema. I did 4 session before the stream to design a wager
+system as well as 5 sessions on stream to setup the actual wager rooms and the
+winning deciding system.
+
 ## #381, #382, #383
 
 Yesterday spent three sessions just designing a new Wood Dispenser that will not
