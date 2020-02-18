@@ -1,5 +1,13 @@
 # Worklog
 
+## #393
+
+Found a bug in the winning decider system where basically the same player can
+both split AND steal and win as a result so I modified that to work properly. I
+also need to find a way to cut down on channel usage, because I would prefer to
+not have just one room. Ideally I have around 4, but that's probably not likely.
+I may be able to swing two rooms if I'm smart about it.
+
 ## #384, #385, #386, #387, #388, #389, #390, #391, #392
 
 So I did a bunch of stuff a couple days ago to build up a new prototype based on
