@@ -1,5 +1,9 @@
 # Worklog
 
+## #394
+
+Wrote the new Creative Lesson on controllable goals.
+
 ## #393
 
 Found a bug in the winning decider system where basically the same player can
