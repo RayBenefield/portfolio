@@ -1,5 +1,15 @@
 # Worklog
 
+## #395, #396, #397, #398
+
+Finally got to setup Sewers for the new Season since they fixed up the
+elimination manager bugs. Join in progress works just fine now. It is currently
+setup with mice with drum guns and the radioctive mouse with a combat shottie.
+We had to remove the low exposure filter because it was just terrible for seeing
+as the radioctive mouse. But ultimately everything worked out scripting wise.
+I'd like to reduce the damage for normal mice, but I don't want them to have a
+glowing effect. So when they remove that we can actually update it.
+
 ## #394
 
 Wrote the new Creative Lesson on controllable goals.
