@@ -1,5 +1,16 @@
 # Worklog
 
+## #399, #400, #401, #402, #403, #404, #405, #406, #407
+
+Finally got around to working on my Cat N' Mouse prototype using driftboards and
+a mech for the cat. The scripting system was a massive headache for some reason
+but we made it through. And we discovered that class selectors are weirdly
+bugged. But we made an alternate system. Next thing we need to do is rework the
+spawn system so if you die not to the zone you spawn at a decent time. Otherwise
+the gametype is a lot of fun. We want it so when a mouse hits the zone it will
+give them shields delayed, because we want the mech to have the chance to punish
+a reckless rush.
+
 ## #395, #396, #397, #398
 
 Finally got to setup Sewers for the new Season since they fixed up the
